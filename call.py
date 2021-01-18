@@ -3,7 +3,6 @@ import wikipediaapi
 import csv
 import requests
 import json
-import geojson
 wiki_wiki = wikipediaapi.Wikipedia('en')
 
 
