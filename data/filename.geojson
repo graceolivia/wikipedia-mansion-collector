@@ -1,20 +1,7 @@
-
-{ "type" : "Feature Collection",
+ 
+{ "type" : "FeatureCollection",
    "features" : [
-      {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ Latitude, Longitude]
-    },
-    "properties": {
-    "Name": "Name",
-    "Description":"Description",
-    "Images":"Images"
-    },
-     ]
-    }
-       {
+    {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -22,14 +9,11 @@
     },
     "properties": {
     "Name": "5 Columbus Circle",
-    "Description":"5 Columbus Circle (also known as 1790 Broadway and formerly known as the United States Rubber Company Building) is an office building on the southeast corner of Broadway and 58th Street in Midtown Manhattan in New York City, just south of Columbus Circle. Designed by Carrère and Hastings in the Beaux-Arts style, it is 286 feet (87 m) tall with 20 stories.
-The building contains a marble facade with a copper cornice above the 20th story. The windows are grouped into recessed bays, separated horizontally by metal spandrels and vertically by narrow piers. The base contains part of a flagship store for Nordstrom, which extends into Central Park Tower and another building.
-5 Columbus Circle was originally built as the headquarters of the United States Rubber Company (U.S. Rubber) in 1912. It was part of Broadway's "Automobile Row" during the early 20th century. U.S. Rubber moved to a new headquarters in 1940, and the building was sold several times before being acquired by the West Side Federal Savings and Loan Association. The First Nationwide Savings Bank, which acquired the West Side Federal Savings bank, sold the building in 1985 to John Phufas and John O'Donnell, and small renovations were undertaken in subsequent years. The New York City Landmarks Preservation Commission designated the building as a city landmark in 2000.",
+    "Description":"5 Columbus Circle (also known as 1790 Broadway and formerly known as the United States Rubber Company Building) is an office building on the southeast corner of Broadway and 58th Street in Midtown Manhattan in New York City, just south of Columbus Circle. Designed by Carr\u00e8re and Hastings in the Beaux-Arts style, it is 286 feet (87 m) tall with 20 stories.\nThe building contains a marble facade with a copper cornice above the 20th story. The windows are grouped into recessed bays, separated horizontally by metal spandrels and vertically by narrow piers. The base contains part of a flagship store for Nordstrom, which extends into Central Park Tower and another building.\n5 Columbus Circle was originally built as the headquarters of the United States Rubber Company (U.S. Rubber) in 1912. It was part of Broadway's \"Automobile Row\" during the early 20th century. U.S. Rubber moved to a new headquarters in 1940, and the building was sold several times before being acquired by the West Side Federal Savings and Loan Association. The First Nationwide Savings Bank, which acquired the West Side Federal Savings bank, sold the building in 1985 to John Phufas and John O'Donnell, and small renovations were undertaken in subsequent years. The New York City Landmarks Preservation Commission designated the building as a city landmark in 2000.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/US_Rubber_1790_Bwy_west_jeh.jpg/140px-US_Rubber_1790_Bwy_west_jeh.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -37,15 +21,11 @@ The building contains a marble facade with a copper cornice above the 20th story
     },
     "properties": {
     "Name": "37 Wall Street",
-    "Description":"Wall Street is an eight-block-long street in the Financial District of Lower Manhattan in New York City. It runs between Broadway in the west to South Street and the East River in the east. The term "Wall Street" has become a metonym for the financial markets of the United States as a whole, the American financial services industry, New York–based financial interests, or the Financial District itself.
-Wall Street was originally known in Dutch as "de Waalstraat" when it was part of New Amsterdam in the 17th century, though the origins of the name vary. An actual wall existed on the street from 1685 to 1699. During the 17th century, Wall Street was a slave trading marketplace and a securities trading site, as well as the location of Federal Hall, New York's first city hall. In the early 19th century, both residences and businesses occupied the area, but increasingly business predominated, and New York City's financial industry became centered on Wall Street. In the 20th century, several early skyscrapers were built on Wall Street, including 40 Wall Street, once the world's tallest building.
-Wall Street is home to the world's two largest stock exchanges by total market capitalization, the New York Stock Exchange and NASDAQ. Several other major exchanges have or had headquarters in the Wall Street area, including the New York Mercantile Exchange, the New York Board of Trade, the New York Futures Exchange (NYFE), and the former American Stock Exchange. To support the exchanges, many brokerage firms had offices "clustered around Wall Street". The direct economic impacts of Wall Street activities extend beyond New York City.
-Wall Street physically contains several banking headquarters and skyscrapers, as well as the Federal Hall National Memorial. The street is served by three subway stations and a ferry stop.",
+    "Description":"Wall Street is an eight-block-long street in the Financial District of Lower Manhattan in New York City. It runs between Broadway in the west to South Street and the East River in the east. The term \"Wall Street\" has become a metonym for the financial markets of the United States as a whole, the American financial services industry, New York\u2013based financial interests, or the Financial District itself.\nWall Street was originally known in Dutch as \"de Waalstraat\" when it was part of New Amsterdam in the 17th century, though the origins of the name vary. An actual wall existed on the street from 1685 to 1699. During the 17th century, Wall Street was a slave trading marketplace and a securities trading site, as well as the location of Federal Hall, New York's first city hall. In the early 19th century, both residences and businesses occupied the area, but increasingly business predominated, and New York City's financial industry became centered on Wall Street. In the 20th century, several early skyscrapers were built on Wall Street, including 40 Wall Street, once the world's tallest building.\nWall Street is home to the world's two largest stock exchanges by total market capitalization, the New York Stock Exchange and NASDAQ. Several other major exchanges have or had headquarters in the Wall Street area, including the New York Mercantile Exchange, the New York Board of Trade, the New York Futures Exchange (NYFE), and the former American Stock Exchange. To support the exchanges, many brokerage firms had offices \"clustered around Wall Street\". The direct economic impacts of Wall Street activities extend beyond New York City.\nWall Street physically contains several banking headquarters and skyscrapers, as well as the Federal Hall National Memorial. The street is served by three subway stations and a ferry stop.",
     "Images":""
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -53,16 +33,11 @@ Wall Street physically contains several banking headquarters and skyscrapers, as
     },
     "properties": {
     "Name": "49 Chambers",
-    "Description":"49 Chambers, formerly known as the Emigrant Industrial Savings Bank Building and 51 Chambers Street, is a residential building at 49–51 Chambers Street in the Civic Center neighborhood of Manhattan in New York City. It was built between 1909 and 1912 and was designed by Raymond F. Almirall in the Beaux-Arts style. The building occupies a slightly irregular lot bounded by Chambers Street to the south, Elk Street to the east, and Reade Street to the north.
-49 Chambers was the largest bank building in the United States upon its completion. It was the first skyscraper to use the "H" layout, which provided light and air to more parts of the building. The basement through second floor fill the entire lot, while the third through fifteenth floors contain the "H" layout and are designed to resemble a pair of towers. The facade is made largely of Indiana Limestone, as well as some brick and granite. Inside, the first and second floors constitute a former banking hall, used as an event space. The upper floors were used as offices before being converted to 99 residential condominiums.
-The current building is the third built by the Emigrant Savings Bank on the same site; the bank had previously erected structures in 1858 and 1885–1887. 49 Chambers' banking hall was occupied by the bank until 1969, while office tenants took space in the upper floors. The building was subsequently owned by the government of New York City until 2013, and was converted in 2017 to condominiums. 49 Chambers was added to the National Register of Historic Places in 1982, and both the exterior and the first floor interior were designated New York City landmarks in 1985.
-
-",
+    "Description":"49 Chambers, formerly known as the Emigrant Industrial Savings Bank Building and 51 Chambers Street, is a residential building at 49\u201351 Chambers Street in the Civic Center neighborhood of Manhattan in New York City. It was built between 1909 and 1912 and was designed by Raymond F. Almirall in the Beaux-Arts style. The building occupies a slightly irregular lot bounded by Chambers Street to the south, Elk Street to the east, and Reade Street to the north.\n49 Chambers was the largest bank building in the United States upon its completion. It was the first skyscraper to use the \"H\" layout, which provided light and air to more parts of the building. The basement through second floor fill the entire lot, while the third through fifteenth floors contain the \"H\" layout and are designed to resemble a pair of towers. The facade is made largely of Indiana Limestone, as well as some brick and granite. Inside, the first and second floors constitute a former banking hall, used as an event space. The upper floors were used as offices before being converted to 99 residential condominiums.\nThe current building is the third built by the Emigrant Savings Bank on the same site; the bank had previously erected structures in 1858 and 1885\u20131887. 49 Chambers' banking hall was occupied by the bank until 1969, while office tenants took space in the upper floors. The building was subsequently owned by the government of New York City until 2013, and was converted in 2017 to condominiums. 49 Chambers was added to the National Register of Historic Places in 1982, and both the exterior and the first floor interior were designated New York City landmarks in 1985.\n\n",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Emigrant_Industrial_Savings_Bank_001_002_003_combined_crop.JPG/163px-Emigrant_Industrial_Savings_Bank_001_002_003_combined_crop.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -70,13 +45,11 @@ The current building is the third built by the Emigrant Savings Bank on the same
     },
     "properties": {
     "Name": "240 Centre Street",
-    "Description":"240 Centre Street, formerly the New York City Police Headquarters, is a building between Broome and Grand Streets in the Nolita neighborhood of Manhattan, New York City. It was built in 1905–1909, and was designed by the firm of Hoppin & Koen. 240 Centre housed the headquarters of the New York City Police Department from 1909 to 1973, and was converted into luxury condominiums in 1988 by the firm of Ehrenkranz Group & Eckstut.  It is now known as the Police Building Apartments.240 Centre Street replaced an older building nearby on Mulberry Street, where Theodore Roosevelt had served as New York City Police Commissioner. Following the 1898 consolidation of the five boroughs into the City of Greater New York, the police department also expanded and needed a new headquarters building.
-The Police Building was designated a New York City landmark in 1978, and was listed on the National Register of Historic Places in 1980.",
+    "Description":"240 Centre Street, formerly the New York City Police Headquarters, is a building between Broome and Grand Streets in the Nolita neighborhood of Manhattan, New York City. It was built in 1905\u20131909, and was designed by the firm of Hoppin & Koen. 240 Centre housed the headquarters of the New York City Police Department from 1909 to 1973, and was converted into luxury condominiums in 1988 by the firm of Ehrenkranz Group & Eckstut.  It is now known as the Police Building Apartments.240 Centre Street replaced an older building nearby on Mulberry Street, where Theodore Roosevelt had served as New York City Police Commissioner. Following the 1898 consolidation of the five boroughs into the City of Greater New York, the police department also expanded and needed a new headquarters building.\nThe Police Building was designated a New York City landmark in 1978, and was listed on the National Register of Historic Places in 1980.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Broomestnypd.JPG/211px-Broomestnypd.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -84,13 +57,11 @@ The Police Building was designated a New York City landmark in 1978, and was lis
     },
     "properties": {
     "Name": "257 Central Park West",
-    "Description":"257 Central Park West, constructed between 1905 and 1906, currently is a co-op apartment building located on the southwest corner of 86th Street and Central Park West in the Upper West Side of Manhattan in New York City.
-Designed by the firm of Mulliken and Moeller and built by Gotham Building & Construction, the structure was erected as a luxury apartment house originally called the Central Park View. Mulliken and Moeller had recently finished The Lucerne, on the corner of 79th and Amsterdam Avenue, and the Bretton Hall hotel on the east side of Broadway from 85th to 86th Streets. When Mulliken and Moeller began working on the Central Park View in 1905 for an investor group known only as the Monticello Realty Company, they were also designing the Severn and Van Dyck apartments (found on the east side of Amsterdam Avenue between 72nd and 73rd streets) for a separate client. In the following year, Mulliken and Moeller designed Rossleigh Court, the adjoining and similarly designed apartment building located on the northwest corner of 85th Street and Central Park West. In 1909, Dr. H. F. L. Ziegel and his wife, Beatrice, added the adjoining Neo-Georgian residence at 8 West 86th StreetSituated opposite the 86th Street transverse to Central Park West on the southwest corner, the Central Park View's design followed the popular “French Flat” model in a Beaux Arts-style, modified to conform to the size of a twelve-story structure. Upon its completion, the new hotel anchored the eastern end of the developing West 86th Street. On the western end of West 86th Street, the Columbia Yacht Club had relocated to a site adjoining the Hudson River in 1874 and remained the other West 86th Street bookend until 1937.257 Central Park West is located within the Upper West Side-Central Park West Historic District, designated on April 24, 1990. It is also located next to the 86th Street station of the New York City Subway (A, ​B, and ​C trains).",
+    "Description":"257 Central Park West, constructed between 1905 and 1906, currently is a co-op apartment building located on the southwest corner of 86th Street and Central Park West in the Upper West Side of Manhattan in New York City.\nDesigned by the firm of Mulliken and Moeller and built by Gotham Building & Construction, the structure was erected as a luxury apartment house originally called the Central Park View. Mulliken and Moeller had recently finished The Lucerne, on the corner of 79th and Amsterdam Avenue, and the Bretton Hall hotel on the east side of Broadway from 85th to 86th Streets. When Mulliken and Moeller began working on the Central Park View in 1905 for an investor group known only as the Monticello Realty Company, they were also designing the Severn and Van Dyck apartments (found on the east side of Amsterdam Avenue between 72nd and 73rd streets) for a separate client. In the following year, Mulliken and Moeller designed Rossleigh Court, the adjoining and similarly designed apartment building located on the northwest corner of 85th Street and Central Park West. In 1909, Dr. H. F. L. Ziegel and his wife, Beatrice, added the adjoining Neo-Georgian residence at 8 West 86th StreetSituated opposite the 86th Street transverse to Central Park West on the southwest corner, the Central Park View's design followed the popular \u201cFrench Flat\u201d model in a Beaux Arts-style, modified to conform to the size of a twelve-story structure. Upon its completion, the new hotel anchored the eastern end of the developing West 86th Street. On the western end of West 86th Street, the Columbia Yacht Club had relocated to a site adjoining the Hudson River in 1874 and remained the other West 86th Street bookend until 1937.257 Central Park West is located within the Upper West Side-Central Park West Historic District, designated on April 24, 1990. It is also located next to the 86th Street station of the New York City Subway (A, \u200bB, and \u200bC trains).",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/257_CPW_in_winter.jpg/240px-257_CPW_in_winter.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -98,14 +69,11 @@ Designed by the firm of Mulliken and Moeller and built by Gotham Building & Cons
     },
     "properties": {
     "Name": "300 Park Avenue South",
-    "Description":"300 Park Avenue South (previously the Mills & Gibb Building and currently also known as The Creative Arts Center) is a building on the northwest corner of East 22nd Street in the Flatiron District/Gramercy Park neighborhoods of Manhattan, New York City.
-
-",
+    "Description":"300 Park Avenue South (previously the Mills & Gibb Building and currently also known as The Creative Arts Center) is a building on the northwest corner of East 22nd Street in the Flatiron District/Gramercy Park neighborhoods of Manhattan, New York City. \n\n",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/300_Park_Avenue_South.jpg/210px-300_Park_Avenue_South.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -113,12 +81,11 @@ Designed by the firm of Mulliken and Moeller and built by Gotham Building & Cons
     },
     "properties": {
     "Name": "900 Broadway",
-    "Description":"900 Broadway, also known as the Goelet Building, is a historical structure commissioned by members of the Goelet family located at the corner of Broadway and East 20th Street, in the Ladies' Mile Historic District of Manhattan, New York City. It was designed by Stanford White of McKim, Mead & White, and built in 1886–1887. The building was enlarged in 1905–06 by Maynicke & Franke.",
+    "Description":"900 Broadway, also known as the Goelet Building, is a historical structure commissioned by members of the Goelet family located at the corner of Broadway and East 20th Street, in the Ladies' Mile Historic District of Manhattan, New York City. It was designed by Stanford White of McKim, Mead & White, and built in 1886\u20131887. The building was enlarged in 1905\u201306 by Maynicke & Franke.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Goelet_Building_900_Broadway.jpg/220px-Goelet_Building_900_Broadway.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -126,16 +93,11 @@ Designed by the firm of Mulliken and Moeller and built by Gotham Building & Cons
     },
     "properties": {
     "Name": "Alexander Hamilton U.S. Custom House",
-    "Description":"The Alexander Hamilton U.S. Custom House is a custom house erected in 1902–1907 by the federal government to house the duty collection operations for the Port of New York. Designed by Cass Gilbert in the Beaux-Arts style, it is at 1 Bowling Green in the Financial District near the southern tip of Manhattan in New York City, roughly on the same spot as Fort Amsterdam and Government House.
-The Custom House was proposed in 1889 as a replacement for the previous New York Custom House at 55 Wall Street. Due to various disagreements, the Bowling Green Custom House was not approved until 1899; Gilbert was selected as an architect following a competition. The building was officially opened in 1907, and the murals in the rotunda were added during a Works Progress Administration project in 1938. The United States Customs Service moved out of the building in 1974, and it sat abandoned for over a decade until renovations in the late 1980s. In 1990, the Custom House was renamed to commemorate Alexander Hamilton, one of the Founding Fathers of the United States and its first Secretary of the Treasury.
-The building contains the George Gustav Heye Center of the National Museum of the American Indian, which opened in 1994, as well as the United States Bankruptcy Court for the Southern District of New York. Since 2012, it is also the home to the National Archives at New York City. The exterior of the U.S. Custom House was designated a city landmark by the New York City Landmarks Preservation Commission in 1965, while part of the interior was similarly designated in 1979. The building was added to the National Register of Historic Places in 1972 and was named a National Historic Landmark in 1976.
-
-",
+    "Description":"The Alexander Hamilton U.S. Custom House is a custom house erected in 1902\u20131907 by the federal government to house the duty collection operations for the Port of New York. Designed by Cass Gilbert in the Beaux-Arts style, it is at 1 Bowling Green in the Financial District near the southern tip of Manhattan in New York City, roughly on the same spot as Fort Amsterdam and Government House.\nThe Custom House was proposed in 1889 as a replacement for the previous New York Custom House at 55 Wall Street. Due to various disagreements, the Bowling Green Custom House was not approved until 1899; Gilbert was selected as an architect following a competition. The building was officially opened in 1907, and the murals in the rotunda were added during a Works Progress Administration project in 1938. The United States Customs Service moved out of the building in 1974, and it sat abandoned for over a decade until renovations in the late 1980s. In 1990, the Custom House was renamed to commemorate Alexander Hamilton, one of the Founding Fathers of the United States and its first Secretary of the Treasury.\nThe building contains the George Gustav Heye Center of the National Museum of the American Indian, which opened in 1994, as well as the United States Bankruptcy Court for the Southern District of New York. Since 2012, it is also the home to the National Archives at New York City. The exterior of the U.S. Custom House was designated a city landmark by the New York City Landmarks Preservation Commission in 1965, while part of the interior was similarly designated in 1979. The building was added to the National Register of Historic Places in 1972 and was named a National Historic Landmark in 1976.\n\n",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alexander_Hamilton_U-S_Custom_House_001-002_combined.JPG/281px-Alexander_Hamilton_U-S_Custom_House_001-002_combined.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -145,10 +107,9 @@ The building contains the George Gustav Heye Center of the National Museum of th
     "Name": "Battery Maritime Building",
     "Description":"The Battery Maritime Building is a ferry terminal at South Ferry on the southern tip of Manhattan Island in New York City. Located at 10 South Street, near the intersection with Whitehall Street, it is used for excursion trips and has been used as the ferry terminal to Governors Island since 1956.  The Beaux-Arts building was built from 1906 to 1909 as the Municipal Ferry Pier.  It was listed on the National Register of Historic Places in 1976.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Battery_Maritime_Building.jpg/300px-Battery_Maritime_Building.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -156,12 +117,11 @@ The building contains the George Gustav Heye Center of the National Museum of th
     },
     "properties": {
     "Name": "Benjamin N. Duke House",
-    "Description":"The Benjamin N. Duke House, also called the Duke–Semans Mansion and the Benjamin N. and Sarah Duke House, is a landmarked mansion located at 1009 Fifth Avenue at East 82nd Street in the Upper East Side of Manhattan, New York City. It was built in 1899-1901 and was designed by the firm of Welch, Smith & Provot in the Beaux-Arts style.",
+    "Description":"The Benjamin N. Duke House, also called the Duke\u2013Semans Mansion and the Benjamin N. and Sarah Duke House, is a landmarked mansion located at 1009 Fifth Avenue at East 82nd Street in the Upper East Side of Manhattan, New York City. It was built in 1899-1901 and was designed by the firm of Welch, Smith & Provot in the Beaux-Arts style.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/1009_Fifth_Avenue_004_crop.JPG/242px-1009_Fifth_Avenue_004_crop.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -169,16 +129,11 @@ The building contains the George Gustav Heye Center of the National Museum of th
     },
     "properties": {
     "Name": "Blair Building",
-    "Description":"The Blair Building, also known as the Blair and Company Building,  was one of New York City's earliest skyscrapers. It was constructed in 1902–1903. It was located at 24 Broad Street in the Financial District of Manhattan, New York City, and had a white marble facade. It was built by Andrew J. Robinson Company. The Architectural Record ran an article about it in 1903 titled "A Beaux-Arts Skyscraper". It was demolished in 1955.
-It was designed by Carrere and Hastings and Edwin Thayer Barlow of the firm was the supervising architect for construction. Henry W. Post was the building's structural engineer. He also worked on the Gillender Building.In 1928 the building was purchased to be part of the expanding New York Stock Exchange Building complex. Irving Underhill photographed the building in 1932.
-It was next to the adjoining Commercial Cable Building built in 1897 at 20 Broad Street.
-
-",
+    "Description":"The Blair Building, also known as the Blair and Company Building,  was one of New York City's earliest skyscrapers. It was constructed in 1902\u20131903. It was located at 24 Broad Street in the Financial District of Manhattan, New York City, and had a white marble facade. It was built by Andrew J. Robinson Company. The Architectural Record ran an article about it in 1903 titled \"A Beaux-Arts Skyscraper\". It was demolished in 1955.\nIt was designed by Carrere and Hastings and Edwin Thayer Barlow of the firm was the supervising architect for construction. Henry W. Post was the building's structural engineer. He also worked on the Gillender Building.In 1928 the building was purchased to be part of the expanding New York Stock Exchange Building complex. Irving Underhill photographed the building in 1932.\nIt was next to the adjoining Commercial Cable Building built in 1897 at 20 Broad Street.\n\n",
     "Images":""
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -188,10 +143,9 @@ It was next to the adjoining Commercial Cable Building built in 1897 at 20 Broad
     "Name": "Bowery Savings Bank",
     "Description":"The Bowery Savings Bank was a bank in New York City. It was chartered in May 1834 and is now part of Capital One Bank.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bowery_Savings_Bank_130_Bowery_from_north.jpg/227px-Bowery_Savings_Bank_130_Bowery_from_north.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -199,14 +153,11 @@ It was next to the adjoining Commercial Cable Building built in 1897 at 20 Broad
     },
     "properties": {
     "Name": "Broadway–Chambers Building",
-    "Description":"The Broadway–Chambers Building is an 18-story office building at 277 Broadway, on the northwest corner with Chambers Street, in the Civic Center and Tribeca neighborhoods of Manhattan in New York City. Completed by 1900 to designs by architect Cass Gilbert, the Broadway–Chambers Building was the first of several that Gilbert designed in the city.
-The Broadway–Chambers Building is designed in the Beaux-Arts style. The building's articulation consists of three horizontal sections similar to the components of a column, namely a base, shaft, and capital. Different materials are used in each horizontal section: granite on the base, brick on the shaft, and architectural terracotta on the capital. The Broadway–Chambers Building's design also incorporates one of Gilbert's trademarks, the extensive use of architectural sculpture on the cornice of the arcade at the top of the building, which includes the heads of lions and women.
-The building was constructed between 1899 and 1900. Several companies collaborated to create an exhibit about the construction of the building at the Paris Exposition of 1900. The Broadway–Chambers Building was made a New York City designated landmark in 1992.",
+    "Description":"The Broadway\u2013Chambers Building is an 18-story office building at 277 Broadway, on the northwest corner with Chambers Street, in the Civic Center and Tribeca neighborhoods of Manhattan in New York City. Completed by 1900 to designs by architect Cass Gilbert, the Broadway\u2013Chambers Building was the first of several that Gilbert designed in the city.\nThe Broadway\u2013Chambers Building is designed in the Beaux-Arts style. The building's articulation consists of three horizontal sections similar to the components of a column, namely a base, shaft, and capital. Different materials are used in each horizontal section: granite on the base, brick on the shaft, and architectural terracotta on the capital. The Broadway\u2013Chambers Building's design also incorporates one of Gilbert's trademarks, the extensive use of architectural sculpture on the cornice of the arcade at the top of the building, which includes the heads of lions and women.\nThe building was constructed between 1899 and 1900. Several companies collaborated to create an exhibit about the construction of the building at the Paris Exposition of 1900. The Broadway\u2013Chambers Building was made a New York City designated landmark in 1992.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Broadway-Chambers_Building.jpg/189px-Broadway-Chambers_Building.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -214,14 +165,11 @@ The building was constructed between 1899 and 1900. Several companies collaborat
     },
     "properties": {
     "Name": "Bronx Borough Courthouse",
-    "Description":"The Bronx Borough Courthouse, commonly referred to as the Old Bronx Borough Courthouse, is a building in the Melrose neighborhood of the Bronx, New York City.  The courthouse was built between 1905 and 1914 near Boston Road, Third Avenue, St. Anns Avenue, and 161st Street. The 161st Street station of the New York City Subway's IRT Third Avenue elevated was in front of the courthouse. For two decades it housed the Supreme, Surrogate's, and County Courts of the borough until the larger Bronx County Courthouse was built in 1934.  The Bronx Branch of the New York City Criminal Court remained here until 1977 when the city formally sealed the doors. It is a National Register of Historic Places listing and a New York City Landmark.
-
-",
+    "Description":"The Bronx Borough Courthouse, commonly referred to as the Old Bronx Borough Courthouse, is a building in the Melrose neighborhood of the Bronx, New York City.  The courthouse was built between 1905 and 1914 near Boston Road, Third Avenue, St. Anns Avenue, and 161st Street. The 161st Street station of the New York City Subway's IRT Third Avenue elevated was in front of the courthouse. For two decades it housed the Supreme, Surrogate's, and County Courts of the borough until the larger Bronx County Courthouse was built in 1934.  The Bronx Branch of the New York City Criminal Court remained here until 1977 when the city formally sealed the doors. It is a National Register of Historic Places listing and a New York City Landmark.\n\n",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bronx_Boro_Court_House_jeh.JPG/238px-Bronx_Boro_Court_House_jeh.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -231,10 +179,9 @@ The building was constructed between 1899 and 1900. Several companies collaborat
     "Name": "Bronx Zoo",
     "Description":"The Bronx Zoo is a zoo located within Bronx Park in the Bronx, New York. It is one of the largest zoos in the United States by area, and is the largest metropolitan zoo in the United States by area, comprising 265 acres (107 ha) of park lands and naturalistic habitats separated by the Bronx River. On average, the zoo has 2.15 million visitors each year as of 2009.The Bronx Zoo is world-renowned for its large and diverse animal collection, and its award-winning exhibitions. The zoo is part of an integrated system of four zoos and one aquarium managed by the Wildlife Conservation Society (WCS), and it is accredited by the Association of Zoos and Aquariums (AZA).",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bronx_Zoo_001.jpg/300px-Bronx_Zoo_001.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -242,14 +189,11 @@ The building was constructed between 1899 and 1900. Several companies collaborat
     },
     "properties": {
     "Name": "Brooklyn Bridge–City Hall/Chambers Street station",
-    "Description":"Brooklyn Bridge–City Hall/Chambers Street is a New York City Subway station complex in Lower Manhattan. The complex is served by trains of the IRT Lexington Avenue Line and the BMT Nassau Street Line. The station is served by the 4, 6, and J trains at all times; the 5 train at all times except late nights; the <6> train on weekdays in the peak direction; and the Z train during rush hours in the peak direction.
-The complex comprises two stations, Brooklyn Bridge–City Hall and Chambers Street. The Brooklyn Bridge–City Hall station was built for the Interborough Rapid Transit Company (IRT), and was an express station on the city's first subway line. The station opened on October 27, 1904, as one of the original 28 stations of the New York City Subway. The Chambers Street station was built for the Brooklyn Rapid Transit Company (later the Brooklyn–Manhattan Transit Corporation, or BMT) as part of the Dual Contracts. The Nassau Street Line station opened on August 4, 1913. Several modifications have been made to both stations over the years, and they were connected within a single fare control area in 1948.
-The Lexington Avenue Line station, under Centre Street, has two island platforms, two side platforms, and four tracks; the side platforms are not in use. The Nassau Street Line station, under the Manhattan Municipal Building, has three island platforms, one side platform, and four tracks; only the outer tracks and two of the island platforms are in use. The complex contains elevators that make it compliant with the Americans with Disabilities Act of 1990.",
+    "Description":"Brooklyn Bridge\u2013City Hall/Chambers Street is a New York City Subway station complex in Lower Manhattan. The complex is served by trains of the IRT Lexington Avenue Line and the BMT Nassau Street Line. The station is served by the 4, 6, and J trains at all times; the 5 train at all times except late nights; the <6> train on weekdays in the peak direction; and the Z train during rush hours in the peak direction.\nThe complex comprises two stations, Brooklyn Bridge\u2013City Hall and Chambers Street. The Brooklyn Bridge\u2013City Hall station was built for the Interborough Rapid Transit Company (IRT), and was an express station on the city's first subway line. The station opened on October 27, 1904, as one of the original 28 stations of the New York City Subway. The Chambers Street station was built for the Brooklyn Rapid Transit Company (later the Brooklyn\u2013Manhattan Transit Corporation, or BMT) as part of the Dual Contracts. The Nassau Street Line station opened on August 4, 1913. Several modifications have been made to both stations over the years, and they were connected within a single fare control area in 1948.\nThe Lexington Avenue Line station, under Centre Street, has two island platforms, two side platforms, and four tracks; the side platforms are not in use. The Nassau Street Line station, under the Manhattan Municipal Building, has three island platforms, one side platform, and four tracks; only the outer tracks and two of the island platforms are in use. The complex contains elevators that make it compliant with the Americans with Disabilities Act of 1990.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/WTM3_PAT_M_IN_NYC_0034.jpg/300px-WTM3_PAT_M_IN_NYC_0034.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -257,14 +201,11 @@ The Lexington Avenue Line station, under Centre Street, has two island platforms
     },
     "properties": {
     "Name": "Brooklyn Museum",
-    "Description":"The Brooklyn Museum is an art museum located in the New York City borough of Brooklyn. At 560,000 square feet (52,000 m2), the museum is New York City's third largest in physical size and holds an art collection with roughly 1.5 million works.Located near the Prospect Heights, Crown Heights, Flatbush, and Park Slope neighborhoods of Brooklyn and founded in 1895, the Beaux-Arts building,  designed by McKim, Mead and White, was planned to be the largest art museum in the world. The museum initially struggled to maintain its building and collection, only to be revitalized in the late 20th century, thanks to major renovations. Significant areas of the collection include antiquities, specifically their collection of Egyptian antiquities spanning over 3,000 years. European, African, Oceanic, and Japanese art make for notable antiquities collections as well. American art is heavily represented, starting at the Colonial period. Artists represented in the collection include Mark Rothko, Edward Hopper, Norman Rockwell, Winslow Homer, Edgar Degas, Georgia O'Keeffe, and Max Weber. The museum also has a "Memorial Sculpture Garden" which features salvaged architectural elements from throughout New York City.
-
-",
+    "Description":"The Brooklyn Museum is an art museum located in the New York City borough of Brooklyn. At 560,000 square feet (52,000 m2), the museum is New York City's third largest in physical size and holds an art collection with roughly 1.5 million works.Located near the Prospect Heights, Crown Heights, Flatbush, and Park Slope neighborhoods of Brooklyn and founded in 1895, the Beaux-Arts building,  designed by McKim, Mead and White, was planned to be the largest art museum in the world. The museum initially struggled to maintain its building and collection, only to be revitalized in the late 20th century, thanks to major renovations. Significant areas of the collection include antiquities, specifically their collection of Egyptian antiquities spanning over 3,000 years. European, African, Oceanic, and Japanese art make for notable antiquities collections as well. American art is heavily represented, starting at the Colonial period. Artists represented in the collection include Mark Rothko, Edward Hopper, Norman Rockwell, Winslow Homer, Edgar Degas, Georgia O'Keeffe, and Max Weber. The museum also has a \"Memorial Sculpture Garden\" which features salvaged architectural elements from throughout New York City.\n\n",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brooklyn_Museum_Night_2015.jpg/300px-Brooklyn_Museum_Night_2015.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -274,10 +215,9 @@ The Lexington Avenue Line station, under Centre Street, has two island platforms
     "Name": "Cable Building (New York City)",
     "Description":"The Cable Building is located at 611 Broadway at the northwest corner with Houston Street in NoHo and Greenwich Village, in Manhattan, New York City. Since it spans a block, the Cable Building also has addresses of 2-18 West Houston Street and 178-188 Mercer Street.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Broadway_and_W_Houston_St_%286231921503%29.jpg/300px-Broadway_and_W_Houston_St_%286231921503%29.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -287,10 +227,9 @@ The Lexington Avenue Line station, under Centre Street, has two island platforms
     "Name": "Century Theatre (New York City)",
     "Description":"The Century Theatre, originally the New Theatre, was a theatre located at 62nd Street and Central Park West in New York City. Opened on November 6, 1909, it was noted for its fine architecture but due to poor acoustics and an inconvenient location it was financially unsuccessful. The theatre was demolished in 1931 and replaced by the Century Apartments building.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/New_Theatre_-_NE_exterior_view_-_The_Architect_1909.jpg/300px-New_Theatre_-_NE_exterior_view_-_The_Architect_1909.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -298,13 +237,11 @@ The Lexington Avenue Line station, under Centre Street, has two island platforms
     },
     "properties": {
     "Name": "Charles Scribner's Sons Building",
-    "Description":"Charles Scribner's Sons Building is a building at 597 Fifth Avenue  in Midtown Manhattan, New York City. Designed by Ernest Flagg in a Beaux Arts style, it was built in 1912–13 for the Scribner's Bookstore. Among its details are piers anchoring three large bays which include four medallions with busts of printers: Benjamin Franklin, William Caxton, Johann Gutenberg, and Aldus Manutius.The Benetton Group purchased the building in the 1980s. Declining business forced the Scribner's Bookstore to relocate to a lower-rent district in New York before it was acquired by Barnes & Noble, Inc. The building has subsequently housed a Brentano's bookstore, a Benetton clothing store, a Sephora cosmetics, and currently houses a Lululemon Athletica retail store. A&A Investment Co. bought the Scribner Building in 2006. It was sold on to Thor Equities in 2011.The building was the location of Anthony Weiner's campaign office during his 2013 mayoral campaign, and was also where Cambridge Analytica had its New York office between 2016 and the company's collapse in 2018.
-The building was nominated for listing on the National Register of Historic Places in 1981 and was deemed to have met the architectural and historical criteria for acceptance. However, it was not listed because of objections from its owners.",
+    "Description":"Charles Scribner's Sons Building is a building at 597 Fifth Avenue  in Midtown Manhattan, New York City. Designed by Ernest Flagg in a Beaux Arts style, it was built in 1912\u201313 for the Scribner's Bookstore. Among its details are piers anchoring three large bays which include four medallions with busts of printers: Benjamin Franklin, William Caxton, Johann Gutenberg, and Aldus Manutius.The Benetton Group purchased the building in the 1980s. Declining business forced the Scribner's Bookstore to relocate to a lower-rent district in New York before it was acquired by Barnes & Noble, Inc. The building has subsequently housed a Brentano's bookstore, a Benetton clothing store, a Sephora cosmetics, and currently houses a Lululemon Athletica retail store. A&A Investment Co. bought the Scribner Building in 2006. It was sold on to Thor Equities in 2011.The building was the location of Anthony Weiner's campaign office during his 2013 mayoral campaign, and was also where Cambridge Analytica had its New York office between 2016 and the company's collapse in 2018.\nThe building was nominated for listing on the National Register of Historic Places in 1981 and was deemed to have met the architectural and historical criteria for acceptance. However, it was not listed because of objections from its owners.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Scribner1.jpg/190px-Scribner1.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -312,16 +249,11 @@ The building was nominated for listing on the National Register of Historic Plac
     },
     "properties": {
     "Name": "City Investing Building",
-    "Description":"The City Investing Building, also known as the Broadway–Cortlandt Building and the Benenson Building, was an office building and early skyscraper in Manhattan, New York. Serving as the headquarters of the City Investing Company, it was on Cortlandt Street between Church Street and Broadway in the Financial District of Lower Manhattan. The building was designed by Francis Kimball and constructed by the Hedden Construction Company.
-Because of the area's sloping topography, the City Investing Building rose 32 stories above Broadway and 33 stories above Church Street, excluding an attic. The bulk of the building was 26 stories high above Church Street and was capped by a seven-story central portion with gable roofs. The building had an asymmetrical F-shaped footprint with a light court facing Cortlandt Street, as well as a wing to Broadway that wrapped around a real estate holdout, the Gilsey Building. Inside was a massive lobby stretching between Broadway and Church Street. The upper stories each contained between 5,200 and 19,500 square feet (480 and 1,810 m2) of space on each floor.
-Work on the City Investing Building started in 1906, and it opened in 1908 with about 12 acres (49,000 m2; 520,000 sq ft) of floor area, becoming one of New York City's largest office buildings at the time. Though developed by the City Investing Company, the structure had multiple owners throughout its existence. The City Investing Building was sold to Grigori Benenson in 1919 and renamed the Benenson Building. After Benenson was unable to pay the mortgage, it was sold twice in the 1930s. The building was renamed 165 Broadway by 1938 and was renovated in 1941. The City Investing Building and the adjacent Singer Building were razed in 1968 to make room for One Liberty Plaza, which had more than twice the floor area than the two former buildings combined.
-
-",
+    "Description":"The City Investing Building, also known as the Broadway\u2013Cortlandt Building and the Benenson Building, was an office building and early skyscraper in Manhattan, New York. Serving as the headquarters of the City Investing Company, it was on Cortlandt Street between Church Street and Broadway in the Financial District of Lower Manhattan. The building was designed by Francis Kimball and constructed by the Hedden Construction Company.\nBecause of the area's sloping topography, the City Investing Building rose 32 stories above Broadway and 33 stories above Church Street, excluding an attic. The bulk of the building was 26 stories high above Church Street and was capped by a seven-story central portion with gable roofs. The building had an asymmetrical F-shaped footprint with a light court facing Cortlandt Street, as well as a wing to Broadway that wrapped around a real estate holdout, the Gilsey Building. Inside was a massive lobby stretching between Broadway and Church Street. The upper stories each contained between 5,200 and 19,500 square feet (480 and 1,810 m2) of space on each floor.\nWork on the City Investing Building started in 1906, and it opened in 1908 with about 12 acres (49,000 m2; 520,000 sq ft) of floor area, becoming one of New York City's largest office buildings at the time. Though developed by the City Investing Company, the structure had multiple owners throughout its existence. The City Investing Building was sold to Grigori Benenson in 1919 and renamed the Benenson Building. After Benenson was unable to pay the mortgage, it was sold twice in the 1930s. The building was renamed 165 Broadway by 1938 and was renovated in 1941. The City Investing Building and the adjacent Singer Building were razed in 1968 to make room for One Liberty Plaza, which had more than twice the floor area than the two former buildings combined.\n\n",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_City_Investing_Building_%28cropped%29.jpg/210px-The_City_Investing_Building_%28cropped%29.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -329,14 +261,11 @@ Work on the City Investing Building started in 1906, and it opened in 1908 with 
     },
     "properties": {
     "Name": "Civic Club / Estonian House",
-    "Description":"The Civic Club building, now the New York Estonian House (Estonian: New Yorgi Eesti Maja), is a 4-story Beaux-Arts building located at 243 East 34th Street between Second and Third Avenues in the Murray Hill neighborhood of Manhattan, New York City.
-The house was originally built for the Civic Club in 1898–1899, having been designed by Brooklyn architect Thomas A. Gray. The Civic Club was founded by the local social reformer F. Norton Goddard (1861–1905) to reduce poverty and fight against gambling in the neighborhood. After Goddard's death in 1905 the club ceased to exist, but the building remained in the Goddard family until 1946, when Frederick Norton's widow sold it for $25,000 to The New York Estonian Educational Society, Inc., which is still the owner of the house today. The building underwent a $100,000 restoration in 1992.Known as the Estonian House (Eesti Maja), the building houses a number of Estonian organizations such as the New York Estonian School (New Yorgi Eesti Kool), choruses for men and women and a folk dancing group. Vaba Eesti Sõna, the largest Estonian-language newspaper in the United States is also published at the New York Estonian House. The Estonian House has become the main center of Estonian culture on the U.S. Eastern seaboard, especially amongst Estonian-Americans.
-The building was designated as a landmark by the New York City Landmarks Preservation Commission in 1978 and was added to the National Register of Historic Places in 1982.",
+    "Description":"The Civic Club building, now the New York Estonian House (Estonian: New Yorgi Eesti Maja), is a 4-story Beaux-Arts building located at 243 East 34th Street between Second and Third Avenues in the Murray Hill neighborhood of Manhattan, New York City.\nThe house was originally built for the Civic Club in 1898\u20131899, having been designed by Brooklyn architect Thomas A. Gray. The Civic Club was founded by the local social reformer F. Norton Goddard (1861\u20131905) to reduce poverty and fight against gambling in the neighborhood. After Goddard's death in 1905 the club ceased to exist, but the building remained in the Goddard family until 1946, when Frederick Norton's widow sold it for $25,000 to The New York Estonian Educational Society, Inc., which is still the owner of the house today. The building underwent a $100,000 restoration in 1992.Known as the Estonian House (Eesti Maja), the building houses a number of Estonian organizations such as the New York Estonian School (New Yorgi Eesti Kool), choruses for men and women and a folk dancing group. Vaba Eesti S\u00f5na, the largest Estonian-language newspaper in the United States is also published at the New York Estonian House. The Estonian House has become the main center of Estonian culture on the U.S. Eastern seaboard, especially amongst Estonian-Americans.\nThe building was designated as a landmark by the New York City Landmarks Preservation Commission in 1978 and was added to the National Register of Historic Places in 1982.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Civic-club1.jpg/225px-Civic-club1.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -346,10 +275,9 @@ The building was designated as a landmark by the New York City Landmarks Preserv
     "Name": "Congregation Beit Edmond",
     "Description":"Congregation Beit Edmond (formerly named The Edmond J. Safra Synagogue; that is the name used to build a synagogue in Brooklyn) is an Orthodox Sephardic synagogue located on East 63rd Street off of Fifth Avenue in Manhattan, New York.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/WTM3_Chenumuri_0025.jpg/225px-WTM3_Chenumuri_0025.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -357,13 +285,11 @@ The building was designated as a landmark by the New York City Landmarks Preserv
     },
     "properties": {
     "Name": "Consolidated Edison Building",
-    "Description":"The Consolidated Edison Building (also known as the Consolidated Gas Building and 4 Irving Place) is a neoclassical skyscraper in Gramercy Park, Manhattan, New York City, United States. The 26-story building was designed by the architectural firms of Warren and Wetmore and Henry Janeway Hardenbergh. The building takes up the western two-thirds of the block bounded by East 14th Street to the south, Irving Place to the west, 15th Street to the north, and Third Avenue to the east. It serves as the headquarters of energy company Consolidated Edison, also known as Con Ed.
-The site formerly contained Tammany Hall and the Academy of Music, as well as the offices of Con Ed's predecessor, Consolidated Gas. The gas company was originally headquartered at 15th Street and Irving Place, but had outgrown its original building by the 1910s. As a result, Hardenbergh designed an expansion for the existing headquarters, which was constructed from 1911 to 1914. This expansion was later incorporated into a larger structure built by Warren and Wetmore between 1926 and 1929. Upon completion, the building's design was lauded by local media, and its "Tower of Light" became a symbol of the local skyline. On February 10, 2009, the building was declared a New York City designated landmark.",
+    "Description":"The Consolidated Edison Building (also known as the Consolidated Gas Building and 4 Irving Place) is a neoclassical skyscraper in Gramercy Park, Manhattan, New York City, United States. The 26-story building was designed by the architectural firms of Warren and Wetmore and Henry Janeway Hardenbergh. The building takes up the western two-thirds of the block bounded by East 14th Street to the south, Irving Place to the west, 15th Street to the north, and Third Avenue to the east. It serves as the headquarters of energy company Consolidated Edison, also known as Con Ed.\nThe site formerly contained Tammany Hall and the Academy of Music, as well as the offices of Con Ed's predecessor, Consolidated Gas. The gas company was originally headquartered at 15th Street and Irving Place, but had outgrown its original building by the 1910s. As a result, Hardenbergh designed an expansion for the existing headquarters, which was constructed from 1911 to 1914. This expansion was later incorporated into a larger structure built by Warren and Wetmore between 1926 and 1929. Upon completion, the building's design was lauded by local media, and its \"Tower of Light\" became a symbol of the local skyline. On February 10, 2009, the building was declared a New York City designated landmark.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Con_Ed_Building_Tower_from_14th_Street.jpg/238px-Con_Ed_Building_Tower_from_14th_Street.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -371,14 +297,11 @@ The site formerly contained Tammany Hall and the Academy of Music, as well as th
     },
     "properties": {
     "Name": "Crown Heights North Historic District",
-    "Description":"Crown Heights North Historic District is a national historic district located in the Crown Heights neighborhood of Brooklyn, Kings County, New York. The district encompasses 1,019 contributing buildings in a predominantly residential section of Brooklyn.  The district features noteworthy examples of Greek Revival, Gothic Revival, Italianate, Second Empire, Queen Anne, Romanesque Revival, Renaissance Revival, Beaux-Arts, and Colonial Revival style architecture. It largely developed between about 1853 and 1942, and consists of densely constructed rowhouses, townhouses, two-family houses, semi-attached houses, freestanding houses, flats, apartment buildings, and institutional and commercial buildings.
-
-Notable buildings include the former Union League Club Building (c. 1889), Union United Methodist Church (1889-1891), Brooklyn Methodist Episcopal Church Home (1889, 1913), Bedford Central Presbyterian Church (1897, 1906), Hebron French Speaking Seventh Day Adventist Church (1909), St. Gregory the Great Roman Catholic Church (1915-1916), and the former Kings County Savings Bank (1929-1930).It was listed on the National Register of Historic Places in 2014. Two years later, its boundaries were expanded to take in 600 more buildings, including some associated with Shirley Chisholm, the first African-American woman elected to Congress.",
+    "Description":"Crown Heights North Historic District is a national historic district located in the Crown Heights neighborhood of Brooklyn, Kings County, New York. The district encompasses 1,019 contributing buildings in a predominantly residential section of Brooklyn.  The district features noteworthy examples of Greek Revival, Gothic Revival, Italianate, Second Empire, Queen Anne, Romanesque Revival, Renaissance Revival, Beaux-Arts, and Colonial Revival style architecture. It largely developed between about 1853 and 1942, and consists of densely constructed rowhouses, townhouses, two-family houses, semi-attached houses, freestanding houses, flats, apartment buildings, and institutional and commercial buildings.  \n\nNotable buildings include the former Union League Club Building (c. 1889), Union United Methodist Church (1889-1891), Brooklyn Methodist Episcopal Church Home (1889, 1913), Bedford Central Presbyterian Church (1897, 1906), Hebron French Speaking Seventh Day Adventist Church (1909), St. Gregory the Great Roman Catholic Church (1915-1916), and the former Kings County Savings Bank (1929-1930).It was listed on the National Register of Historic Places in 2014. Two years later, its boundaries were expanded to take in 600 more buildings, including some associated with Shirley Chisholm, the first African-American woman elected to Congress.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Imperial_Apts_Bedford_Pacific_jeh.jpg/298px-Imperial_Apts_Bedford_Pacific_jeh.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -386,14 +309,11 @@ Notable buildings include the former Union League Club Building (c. 1889), Union
     },
     "properties": {
     "Name": "Demarest Building",
-    "Description":"The Demarest Building is a multi-purpose commercial building at 339 Fifth Avenue in Midtown Manhattan, New York City. It was built by Aaron T. Demarest in 1890 in the downtown commerce district to showcase the high-end carriages that he manufactured. The building was the first with an electric elevator.
-
-",
+    "Description":"The Demarest Building is a multi-purpose commercial building at 339 Fifth Avenue in Midtown Manhattan, New York City. It was built by Aaron T. Demarest in 1890 in the downtown commerce district to showcase the high-end carriages that he manufactured. The building was the first with an electric elevator.\n\n",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/339_Fifth_Avenue.jpg/300px-339_Fifth_Avenue.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -403,10 +323,9 @@ Notable buildings include the former Union League Club Building (c. 1889), Union
     "Name": "The Dorilton",
     "Description":"The Dorilton is a luxury residential housing cooperative in Manhattan, New York City. Construction began in 1900 and was completed by 1902.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_Dorilton_001.JPG/300px-The_Dorilton_001.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -414,13 +333,11 @@ Notable buildings include the former Union League Club Building (c. 1889), Union
     },
     "properties": {
     "Name": "Dyckman-Hillside Substation",
-    "Description":"The Dyckman-Hillside Substation, also known as Substation 17, is a historic electrical substation located at 127-129 Hillside Avenue between Sickles Street and Nagle Avenue, near the Dyckman Street station of the New York City Subway's IRT Broadway–Seventh Avenue Line, in Inwood, Manhattan, New York City. It was one of eight substations constructed by the Interborough Rapid Transit Company in 1904–05.
-The substation is a two-story, freestanding masonry building in the Beaux-Arts style.  It features a hipped roof, tower-like projections, scrolled wrought iron brackets, and terra cotta decorative details.It was listed on the National Register of Historic Places in 2006.",
+    "Description":"The Dyckman-Hillside Substation, also known as Substation 17, is a historic electrical substation located at 127-129 Hillside Avenue between Sickles Street and Nagle Avenue, near the Dyckman Street station of the New York City Subway's IRT Broadway\u2013Seventh Avenue Line, in Inwood, Manhattan, New York City. It was one of eight substations constructed by the Interborough Rapid Transit Company in 1904\u201305.\nThe substation is a two-story, freestanding masonry building in the Beaux-Arts style.  It features a hipped roof, tower-like projections, scrolled wrought iron brackets, and terra cotta decorative details.It was listed on the National Register of Historic Places in 2006.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dyckman-Hillsde_Substation_from_Hillside_Avenue.jpg/300px-Dyckman-Hillsde_Substation_from_Hillside_Avenue.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -428,14 +345,11 @@ The substation is a two-story, freestanding masonry building in the Beaux-Arts s
     },
     "properties": {
     "Name": "East 73rd Street Historic District",
-    "Description":"The East 73rd Street Historic District is a block of that street on the Upper East Side of the New York City borough of Manhattan, on the south side of the street between Lexington and Third Avenues. It is a neighborhood of small rowhouses built from the mid-19th to early 20th centuries.
-Many of the houses were originally carriage houses for wealthy residents of the Upper East Side, such as Edward Harkness, and their facades still reflect that origin. Among the architects who designed the buildings were Richard Morris Hunt and Charles Romeyn. Later owners included Joseph Pulitzer. Eventually the buildings were converted for automotive use. Some have become purely residential.
-The block has remained architecturally distinct even as those around it have seen larger and more modern construction replace all or some of their original buildings. In 1980 the individual buildings were designated New York City Landmarks, and two years later it was added to the National Register of Historic Places as a single historic district.",
+    "Description":"The East 73rd Street Historic District is a block of that street on the Upper East Side of the New York City borough of Manhattan, on the south side of the street between Lexington and Third Avenues. It is a neighborhood of small rowhouses built from the mid-19th to early 20th centuries.\nMany of the houses were originally carriage houses for wealthy residents of the Upper East Side, such as Edward Harkness, and their facades still reflect that origin. Among the architects who designed the buildings were Richard Morris Hunt and Charles Romeyn. Later owners included Joseph Pulitzer. Eventually the buildings were converted for automotive use. Some have become purely residential.\nThe block has remained architecturally distinct even as those around it have seen larger and more modern construction replace all or some of their original buildings. In 1980 the individual buildings were designated New York City Landmarks, and two years later it was added to the National Register of Historic Places as a single historic district.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/E73rd-historic.jpg/300px-E73rd-historic.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -443,15 +357,11 @@ The block has remained architecturally distinct even as those around it have see
     },
     "properties": {
     "Name": "Grand Central Palace",
-    "Description":"The Grand Central Palace was an exhibition hall in Midtown Manhattan, New York City. The name refers to two structures, both located on Lexington Avenue near Grand Central Terminal.
-The original structure was a six-story structure built in 1893 between 43rd and 44th Streets. It was demolished during the construction of Grand Central Terminal, and a new 13-story structure was constructed between 46th and 47th Streets. The second Grand Central Palace was designed by Grand Central Terminal architects Warren and Wetmore and Reed and Stem in the Beaux-Arts architectural style, and had almost twice as much room as the original structure. The Palace served as New York's main exposition hall from 1911 until 1953, when the exhibition space was replaced by office space for the Internal Revenue Service. The building was demolished starting in 1964. Throughout its history, the Grand Central Palace hosted auto, boat, flower and trade shows, though parts of the Palace were used as office space. The first Palace was also used as a temporary railroad terminal during the construction of Grand Central Terminal in the 1900s.
-
-",
+    "Description":"The Grand Central Palace was an exhibition hall in Midtown Manhattan, New York City. The name refers to two structures, both located on Lexington Avenue near Grand Central Terminal.\nThe original structure was a six-story structure built in 1893 between 43rd and 44th Streets. It was demolished during the construction of Grand Central Terminal, and a new 13-story structure was constructed between 46th and 47th Streets. The second Grand Central Palace was designed by Grand Central Terminal architects Warren and Wetmore and Reed and Stem in the Beaux-Arts architectural style, and had almost twice as much room as the original structure. The Palace served as New York's main exposition hall from 1911 until 1953, when the exhibition space was replaced by office space for the Internal Revenue Service. The building was demolished starting in 1964. Throughout its history, the Grand Central Palace hosted auto, boat, flower and trade shows, though parts of the Palace were used as office space. The first Palace was also used as a temporary railroad terminal during the construction of Grand Central Terminal in the 1900s.\n\n",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Grand-Central-Palace-NYC.jpg/300px-Grand-Central-Palace-NYC.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -459,15 +369,11 @@ The original structure was a six-story structure built in 1893 between 43rd and 
     },
     "properties": {
     "Name": "Grand Central Terminal",
-    "Description":"Grand Central Terminal (GCT; also referred to as Grand Central Station or simply as Grand Central) is a commuter rail terminal located at 42nd Street and Park Avenue in Midtown Manhattan, New York City. Grand Central is the southern terminus of the Metro-North Railroad's Harlem, Hudson and New Haven Lines, serving the northern parts of the New York metropolitan area. It also contains a connection to the New York City Subway at Grand Central–42nd Street station. The terminal is the third-busiest train station in North America, after New York Penn Station and Toronto Union Station.
-The distinctive architecture and interior design of Grand Central Terminal's station house have earned it several landmark designations, including as a National Historic Landmark. Its Beaux-Arts design incorporates numerous works of art. Grand Central Terminal is one of the world's ten most visited tourist attractions, with 21.6 million visitors in 2018, excluding train and subway passengers. The terminal's main concourse is often used as a meeting place, and is especially featured in films and television. Grand Central Terminal contains a variety of stores and food vendors, including a food court on its lower-level concourse.
-Grand Central Terminal was built by and named for the New York Central Railroad; it also served the New York, New Haven and Hartford Railroad and, later, successors to the New York Central. Opened in 1913, the terminal was built on the site of two similarly-named predecessor stations, the first of which dates to 1871. Grand Central Terminal served intercity trains until 1991, when Amtrak began routing its trains through nearby Penn Station. The East Side Access project, which will bring Long Island Rail Road service to a new station beneath the terminal, is expected to be completed in late 2022.
-Grand Central covers 48 acres (19 ha) and has 44 platforms, more than any other railroad station in the world. Its platforms, all below ground, serve 30 tracks on the upper level and 26 on the lower. In total, there are 67 tracks, including a rail yard and sidings; of these, 43 tracks are in use for passenger service, while the remaining two dozen are used to store trains. Another eight tracks and four platforms are being built on two new levels deep underneath the existing station as part of East Side Access.",
+    "Description":"Grand Central Terminal (GCT; also referred to as Grand Central Station or simply as Grand Central) is a commuter rail terminal located at 42nd Street and Park Avenue in Midtown Manhattan, New York City. Grand Central is the southern terminus of the Metro-North Railroad's Harlem, Hudson and New Haven Lines, serving the northern parts of the New York metropolitan area. It also contains a connection to the New York City Subway at Grand Central\u201342nd Street station. The terminal is the third-busiest train station in North America, after New York Penn Station and Toronto Union Station.\nThe distinctive architecture and interior design of Grand Central Terminal's station house have earned it several landmark designations, including as a National Historic Landmark. Its Beaux-Arts design incorporates numerous works of art. Grand Central Terminal is one of the world's ten most visited tourist attractions, with 21.6 million visitors in 2018, excluding train and subway passengers. The terminal's main concourse is often used as a meeting place, and is especially featured in films and television. Grand Central Terminal contains a variety of stores and food vendors, including a food court on its lower-level concourse.\nGrand Central Terminal was built by and named for the New York Central Railroad; it also served the New York, New Haven and Hartford Railroad and, later, successors to the New York Central. Opened in 1913, the terminal was built on the site of two similarly-named predecessor stations, the first of which dates to 1871. Grand Central Terminal served intercity trains until 1991, when Amtrak began routing its trains through nearby Penn Station. The East Side Access project, which will bring Long Island Rail Road service to a new station beneath the terminal, is expected to be completed in late 2022.\nGrand Central covers 48 acres (19 ha) and has 44 platforms, more than any other railroad station in the world. Its platforms, all below ground, serve 30 tracks on the upper level and 26 on the lower. In total, there are 67 tracks, including a rail yard and sidings; of these, 43 tracks are in use for passenger service, while the remaining two dozen are used to store trains. Another eight tracks and four platforms are being built on two new levels deep underneath the existing station as part of East Side Access.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Image-Grand_central_Station_Outside_Night_2.jpg/300px-Image-Grand_central_Station_Outside_Night_2.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -475,14 +381,11 @@ Grand Central covers 48 acres (19 ha) and has 44 platforms, more than any other 
     },
     "properties": {
     "Name": "Hamilton Heights Historic District",
-    "Description":"The Hamilton Heights Historic District is a national historic district in Hamilton Heights, New York, New York.  It consists of 192 contributing residential rowhouses, apartment buildings, and churches built between about 1886 and 1931.  Most are three and four story brick rowhouses set behind raised stone terraces. The three churches within the district are St. Luke's, the Convent Avenue Baptist Church, and St. James Presbyterian Church.  Architectural styles include Queen Anne, Romanesque, and Beaux-Arts.
-
-It was listed on the National Register of Historic Places in 1983.",
+    "Description":"The Hamilton Heights Historic District is a national historic district in Hamilton Heights, New York, New York.  It consists of 192 contributing residential rowhouses, apartment buildings, and churches built between about 1886 and 1931.  Most are three and four story brick rowhouses set behind raised stone terraces. The three churches within the district are St. Luke's, the Convent Avenue Baptist Church, and St. James Presbyterian Church.  Architectural styles include Queen Anne, Romanesque, and Beaux-Arts.\n\nIt was listed on the National Register of Historic Places in 1983.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hamilton-heights1.jpg/300px-Hamilton-heights1.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -490,14 +393,11 @@ It was listed on the National Register of Historic Places in 1983.",
     },
     "properties": {
     "Name": "Helmsley Building",
-    "Description":"The Helmsley Building is a 35-story building at 230 Park Avenue between East 45th and 46th streets in Midtown Manhattan, just north of Grand Central Terminal in New York City. It was built in 1929 as the New York Central Building and was designed by Warren & Wetmore in the Beaux-Arts style. It was the tallest structure in the "Terminal City" complex around Grand Central prior to the completion of what is now the MetLife Building.
-The Helmsley Building carries vehicular traffic through its base: traffic exits and enters the Park Avenue Viaduct through two portals passing under the building. The lobby of the building is between the vehicular portals. Flanking the viaduct's ramps are passageways connecting 45th and 46th streets, with entrances to Grand Central Terminal.
-Before the construction of Grand Central Terminal, the area to the north of the predecessor Grand Central Depot was occupied by an open-air rail yard; the tracks and depot were operated by the New York Central Railroad. After the terminal was completed in 1913, the tracks were buried under a series of buildings that were constructed over the tracks as part of the Terminal City development. The New York Central Building was erected for the railroad between 1927 and 1929 as the last major structure to be built within Terminal City. It was renamed the New York General Building in 1958 and the Helmsley Building in 1978, though ownership was changed several times afterward. The building and its lobby were designated as New York City Landmark spaces in 1987.",
+    "Description":"The Helmsley Building is a 35-story building at 230 Park Avenue between East 45th and 46th streets in Midtown Manhattan, just north of Grand Central Terminal in New York City. It was built in 1929 as the New York Central Building and was designed by Warren & Wetmore in the Beaux-Arts style. It was the tallest structure in the \"Terminal City\" complex around Grand Central prior to the completion of what is now the MetLife Building.\nThe Helmsley Building carries vehicular traffic through its base: traffic exits and enters the Park Avenue Viaduct through two portals passing under the building. The lobby of the building is between the vehicular portals. Flanking the viaduct's ramps are passageways connecting 45th and 46th streets, with entrances to Grand Central Terminal.\nBefore the construction of Grand Central Terminal, the area to the north of the predecessor Grand Central Depot was occupied by an open-air rail yard; the tracks and depot were operated by the New York Central Railroad. After the terminal was completed in 1913, the tracks were buried under a series of buildings that were constructed over the tracks as part of the Terminal City development. The New York Central Building was erected for the railroad between 1927 and 1929 as the last major structure to be built within Terminal City. It was renamed the New York General Building in 1958 and the Helmsley Building in 1978, though ownership was changed several times afterward. The building and its lobby were designated as New York City Landmark spaces in 1987.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Helmsley_47_partsun_jeh.jpg/157px-Helmsley_47_partsun_jeh.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -505,12 +405,11 @@ Before the construction of Grand Central Terminal, the area to the north of the 
     },
     "properties": {
     "Name": "Henry Clay Frick House",
-    "Description":"The Henry Clay Frick House was the residence of the industrialist and art patron Henry Clay Frick in New York City. The mansion is located between 70th and 71st Street and Fifth Avenue on the Upper East Side of Manhattan. It was constructed in 1912–1914 by Thomas Hastings of Carrère and Hastings. It was transformed into a museum in the mid-1930s and houses the Frick Collection and the Frick Art Reference Library.  The house and library were designated a National Historic Landmark in 2008 for their significance in the arts and architecture as a major repository of a Gilded Age art collection.",
+    "Description":"The Henry Clay Frick House was the residence of the industrialist and art patron Henry Clay Frick in New York City. The mansion is located between 70th and 71st Street and Fifth Avenue on the Upper East Side of Manhattan. It was constructed in 1912\u20131914 by Thomas Hastings of Carr\u00e8re and Hastings. It was transformed into a museum in the mid-1930s and houses the Frick Collection and the Frick Art Reference Library.  The house and library were designated a National Historic Landmark in 2008 for their significance in the arts and architecture as a major repository of a Gilded Age art collection.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Henry_C_Frick_House_001.JPG/300px-Henry_C_Frick_House_001.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -520,10 +419,9 @@ Before the construction of Grand Central Terminal, the area to the north of the 
     "Name": "Hotel Astor (New York City)",
     "Description":"Hotel Astor was a hotel located in the Times Square area of Manhattan, New York City, in operation from 1904 through 1967. The former site of the hotel, the block bounded by Broadway, Astor Plaza, West 44th Street, and West 45th Street, is now occupied by the high-rise 54-story office tower One Astor Plaza.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Times_Square_Hotel_Astor%2C_New_York_1909.jpg/300px-Times_Square_Hotel_Astor%2C_New_York_1909.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -531,12 +429,11 @@ Before the construction of Grand Central Terminal, the area to the north of the 
     },
     "properties": {
     "Name": "Hotel Claridge",
-    "Description":"The Hotel Claridge was a 16-story building on Times Square in Manhattan, New York City, at the southeast corner of Broadway and 44th Street. Originally known as the Hotel Rector, it was built of brick in the Beaux-arts style in 1910–11. The 14-story building had 240 guest rooms and 216,000 square feet of space. It operated for 61 years until the building was demolished in 1972.",
+    "Description":"The Hotel Claridge was a 16-story building on Times Square in Manhattan, New York City, at the southeast corner of Broadway and 44th Street. Originally known as the Hotel Rector, it was built of brick in the Beaux-arts style in 1910\u201311. The 14-story building had 240 guest rooms and 216,000 square feet of space. It operated for 61 years until the building was demolished in 1972.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hotel_Claridge%2C_New_York%2C_1910.jpg/203px-Hotel_Claridge%2C_New_York%2C_1910.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -544,16 +441,11 @@ Before the construction of Grand Central Terminal, the area to the north of the 
     },
     "properties": {
     "Name": "Hotel Wolcott",
-    "Description":"The Hotel Wolcott at 4 West 31st Street between Fifth and Sixth Avenues in the Midtown East neighborhood of Manhattan, New York City, was built between 1902 and 1904 by developer William C. Dewey and was designed by the prominent architect John H. Duncan, who employed a bold French Beaux-Arts style combined with French Neo Classicism. The hotel was named after Henry Roger Wolcott, a businessman, politician, and philanthropist.
-
-Before it was even completed, the building was leased by Dewey to James H. Breslin, a prominent hotelier of the time, for three years. Nonetheless, Dewey had difficulty with the financing for the building: unable to purchase steel locally, he imported it from Europe, which caused an unusually long construction period, which in turn made it difficult for Dewey to pay his creditors. In early 1905 The American Mortgage Company repossessed the building, which was sold at auction. Breslin's lease remained, but the hotel passed through the hands of a series of owners in the following decades.
-
-The hotel was popular with travelers, but also housed many permanent residents, including dancer Isadora Duncan and Doris Duke, the heiress. Other prominent guests of the hotel included Edith Wharton and Henry Miller, and Buddy Holly and the Everly Brothers stayed there while recording at Beltone Studios, which was in the building. The hotel also hosted events such as the meeting where Col. Jake Ruppert and Col. Tillinghast Huston purchased the New York Yankees in 1914 and Fiorello La Guardia's inauguration ball in 1938.On December 20, 2011 the hotel was designated a New York City landmark by the New York City Landmarks Preservation Commission.",
+    "Description":"The Hotel Wolcott at 4 West 31st Street between Fifth and Sixth Avenues in the Midtown East neighborhood of Manhattan, New York City, was built between 1902 and 1904 by developer William C. Dewey and was designed by the prominent architect John H. Duncan, who employed a bold French Beaux-Arts style combined with French Neo Classicism. The hotel was named after Henry Roger Wolcott, a businessman, politician, and philanthropist.\n\nBefore it was even completed, the building was leased by Dewey to James H. Breslin, a prominent hotelier of the time, for three years. Nonetheless, Dewey had difficulty with the financing for the building: unable to purchase steel locally, he imported it from Europe, which caused an unusually long construction period, which in turn made it difficult for Dewey to pay his creditors. In early 1905 The American Mortgage Company repossessed the building, which was sold at auction. Breslin's lease remained, but the hotel passed through the hands of a series of owners in the following decades.\n\nThe hotel was popular with travelers, but also housed many permanent residents, including dancer Isadora Duncan and Doris Duke, the heiress. Other prominent guests of the hotel included Edith Wharton and Henry Miller, and Buddy Holly and the Everly Brothers stayed there while recording at Beltone Studios, which was in the building. The hotel also hosted events such as the meeting where Col. Jake Ruppert and Col. Tillinghast Huston purchased the New York Yankees in 1914 and Fiorello La Guardia's inauguration ball in 1938.On December 20, 2011 the hotel was designated a New York City landmark by the New York City Landmarks Preservation Commission.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hotel_Wolcott_from_west.jpg/210px-Hotel_Wolcott_from_west.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -561,13 +453,11 @@ The hotel was popular with travelers, but also housed many permanent residents, 
     },
     "properties": {
     "Name": "Jamaica Savings Bank",
-    "Description":"The Jamaica Savings Bank was a bank incorporated in 1866 in the Jamaica section of the borough of Queens in New York City. It had four branches across Queens before it was acquired by North Fork Bank in 1999, which itself was acquired by Capital One Bank in 2008.
-The bank's original building was built between 1897 and 1898 in the Beaux-Arts style. It is a slender four story brick building with a limestone facade.  It features a deeply rusticated ground floor with windows protected by elegant metal grilles.  The facade is framed by double-story pilasters and covered with elaborate carved brackets, swags and other elements.",
+    "Description":"The Jamaica Savings Bank was a bank incorporated in 1866 in the Jamaica section of the borough of Queens in New York City. It had four branches across Queens before it was acquired by North Fork Bank in 1999, which itself was acquired by Capital One Bank in 2008.\nThe bank's original building was built between 1897 and 1898 in the Beaux-Arts style. It is a slender four story brick building with a limestone facade.  It features a deeply rusticated ground floor with windows protected by elegant metal grilles.  The facade is framed by double-story pilasters and covered with elaborate carved brackets, swags and other elements.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Old_Jamaica_Savings_Bank_Building%3B_Full_View.JPG/300px-Old_Jamaica_Savings_Bank_Building%3B_Full_View.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -575,13 +465,11 @@ The bank's original building was built between 1897 and 1898 in the Beaux-Arts s
     },
     "properties": {
     "Name": "James New York - NoMad",
-    "Description":"The James New York – NoMad, formerly the Seville Hotel and Carlton Hotel, is a historic hotel building at 22 East 29th Street and 88 Madison Avenue in the NoMad neighborhood of Manhattan, New York City. It was designed by Harry Allan Jacobs and built in 1901–04 in the Beaux-Arts style, with an annex built in 1906-07 which was designed by Charles T. Mott.
-Its name was changed to the Carlton Hotel in 1987. By 2018 it had become the James NoMad Hotel, one of two James New York hotels. It was added to the National Register of Historic Places in 2005, and it became a New York City designated landmark in 2018, along with the Emmet Building across the street.",
+    "Description":"The James New York \u2013 NoMad, formerly the Seville Hotel and Carlton Hotel, is a historic hotel building at 22 East 29th Street and 88 Madison Avenue in the NoMad neighborhood of Manhattan, New York City. It was designed by Harry Allan Jacobs and built in 1901\u201304 in the Beaux-Arts style, with an annex built in 1906-07 which was designed by Charles T. Mott.\nIts name was changed to the Carlton Hotel in 1987. By 2018 it had become the James NoMad Hotel, one of two James New York hotels. It was added to the National Register of Historic Places in 2005, and it became a New York City designated landmark in 2018, along with the Emmet Building across the street.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Carlton_Hotel_88_Madison_Avenue.jpg/224px-Carlton_Hotel_88_Madison_Avenue.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -589,14 +477,11 @@ Its name was changed to the Carlton Hotel in 1987. By 2018 it had become the Jam
     },
     "properties": {
     "Name": "Jarmulowsky Bank Building",
-    "Description":"The Jarmulowsky Bank Building is a 12-story building formerly housing the Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by architects Rouse & Goldstone in 1912, in Beaux-Arts style. The building is faced with limestone at its lower section and architectural terracotta on its higher section.
-Sender Jarmulowsky established his bank in 1873. When World War I broke out two years after the bank building was completed, there was a run on the bank, as German investors withdrew funds to send to relatives abroad, and the bank failed.Until 1990, the building featured a massive tempietto rising 50 feet to a dome ringed by eagles. The building was renovated in 1990 by Sing May Realty and the tempietto destroyed. In 2014, a proposal to build a replica of this structure was approved by the New York City Landmarks Preservation Commission. This was completed and unveiled by the beginning of 2020.The building is now used for commercial purposes.
-In 2013 the building was slated for conversion into a boutique, luxury hotel.",
+    "Description":"The Jarmulowsky Bank Building is a 12-story building formerly housing the Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by architects Rouse & Goldstone in 1912, in Beaux-Arts style. The building is faced with limestone at its lower section and architectural terracotta on its higher section.\nSender Jarmulowsky established his bank in 1873. When World War I broke out two years after the bank building was completed, there was a run on the bank, as German investors withdrew funds to send to relatives abroad, and the bank failed.Until 1990, the building featured a massive tempietto rising 50 feet to a dome ringed by eagles. The building was renovated in 1990 by Sing May Realty and the tempietto destroyed. In 2014, a proposal to build a replica of this structure was approved by the New York City Landmarks Preservation Commission. This was completed and unveiled by the beginning of 2020.The building is now used for commercial purposes.\nIn 2013 the building was slated for conversion into a boutique, luxury hotel.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jarmulowsky_Bank_Building_View.JPG/225px-Jarmulowsky_Bank_Building_View.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -606,10 +491,9 @@ In 2013 the building was slated for conversion into a boutique, luxury hotel.",
     "Name": "Joseph Raphael De Lamar House",
     "Description":"The Joseph Raphael De Lamar House is a mansion located at 233 Madison Avenue at the corner of 37th Street in the Murray Hill neighborhood of Manhattan, New York City. It was built in 1902-05 and was designed by C. P. H. Gilbert in the Beaux-Arts style. The De Lamar Mansion marked a stark departure from Gilbert's traditional style of French Gothic architecture and was instead robustly Beaux-Arts, heavy with rusticated stonework, balconies and a colossal mansard roof. The mansion is the largest in Murray Hill and one of the most spectacular in the city; the interiors are as lavish as the exterior.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Polish_consulate_in_New_York.jpg/225px-Polish_consulate_in_New_York.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -617,12 +501,11 @@ In 2013 the building was slated for conversion into a boutique, luxury hotel.",
     },
     "properties": {
     "Name": "Kingsbridge Heights Community Center",
-    "Description":"Kingsbridge Heights Community Center (KHCC) is a settlement house founded in 1974 by community activists Janet Athanasidy, Patricia Burns, and Mary McLoughlin, serving the Kingsbridge Heights neighborhood and the Bronx. KHCC offers programs and services in multiple sites for more than 4,500 people annually. Guided by the settlement house model of community development and involvement, KHCC is a member of United Neighborhood Houses of New York City. KHCC’s mission is to “empower Bronx residents from cradle to career to advance education and well-being for a vibrant community. ”KHCC serves low- and moderate-income residents, providing a variety of programs for all age groups. Programs include early childhood education, college preparation, school-age after school and teen evening programs; counseling services to families, adults and senior citizens; and respite services for developmentally-disabled youth and adults. Some of these programs serve the entire borough of the Bronx, including the Child Sexual Abuse Treatment and Prevention, and College Directions Program.The Center’s main office is located in the former 50th Precinct Police Station House, (originally the 40th Precinct Police Station House), 3101 Kingsbridge Terrace, Bronx, built by architects Arthur J. Hogan and Vincent J. Slattery in 1902. The building was designated a New York City landmark in 1986.",
+    "Description":"Kingsbridge Heights Community Center (KHCC) is a settlement house founded in 1974 by community activists Janet Athanasidy, Patricia Burns, and Mary McLoughlin, serving the Kingsbridge Heights neighborhood and the Bronx. KHCC offers programs and services in multiple sites for more than 4,500 people annually. Guided by the settlement house model of community development and involvement, KHCC is a member of United Neighborhood Houses of New York City. KHCC\u2019s mission is to \u201cempower Bronx residents from cradle to career to advance education and well-being for a vibrant community. \u201dKHCC serves low- and moderate-income residents, providing a variety of programs for all age groups. Programs include early childhood education, college preparation, school-age after school and teen evening programs; counseling services to families, adults and senior citizens; and respite services for developmentally-disabled youth and adults. Some of these programs serve the entire borough of the Bronx, including the Child Sexual Abuse Treatment and Prevention, and College Directions Program.The Center\u2019s main office is located in the former 50th Precinct Police Station House, (originally the 40th Precinct Police Station House), 3101 Kingsbridge Terrace, Bronx, built by architects Arthur J. Hogan and Vincent J. Slattery in 1902. The building was designated a New York City landmark in 1986.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kingsbridge_Heights_Community_Center%2C_August_2013.jpg/300px-Kingsbridge_Heights_Community_Center%2C_August_2013.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -630,14 +513,11 @@ In 2013 the building was slated for conversion into a boutique, luxury hotel.",
     },
     "properties": {
     "Name": "The Knickerbocker Hotel (Manhattan)",
-    "Description":"The Knickerbocker Hotel is a hotel located at the southeast corner of Broadway and 42nd Street in Times Square, Manhattan, New York City. The name "Knickerbocker" is an iconic Dutch surname associated with New York City. Prominent longtime residents of the hotel included Enrico Caruso and George M. Cohan. Built by John Jacob Astor IV (1864–1912) as a showcase of luxury in a time of prosperity, the hostelry closed 15 years later because of financial decline.
-The hotel was converted to offices in 1920 and was known as The Knickerbocker Building. It was the home of Newsweek magazine (1940–59) and became the Newsweek Building. After major renovations in 1980 it became known as 1466 Broadway and was used for many years as garment showrooms and offices. During this period it was later known as 6 Times Square. It was converted back to use as a hotel in 2013–15 under its original name.
-The building is in the Beaux-Arts style, constructed of red brick with terracotta details and a prominent mansard roof. The architects were Marvin & Davis, with Bruce Price as consultant, and it was placed on the National Register of Historic Places in 1980 and designated a New York City Landmark in 1988.",
+    "Description":"The Knickerbocker Hotel is a hotel located at the southeast corner of Broadway and 42nd Street in Times Square, Manhattan, New York City. The name \"Knickerbocker\" is an iconic Dutch surname associated with New York City. Prominent longtime residents of the hotel included Enrico Caruso and George M. Cohan. Built by John Jacob Astor IV (1864\u20131912) as a showcase of luxury in a time of prosperity, the hostelry closed 15 years later because of financial decline.\nThe hotel was converted to offices in 1920 and was known as The Knickerbocker Building. It was the home of Newsweek magazine (1940\u201359) and became the Newsweek Building. After major renovations in 1980 it became known as 1466 Broadway and was used for many years as garment showrooms and offices. During this period it was later known as 6 Times Square. It was converted back to use as a hotel in 2013\u201315 under its original name.\nThe building is in the Beaux-Arts style, constructed of red brick with terracotta details and a prominent mansard roof. The architects were Marvin & Davis, with Bruce Price as consultant, and it was placed on the National Register of Historic Places in 1980 and designated a New York City Landmark in 1988.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/6_Times_Square_42_morning_red_brick_jeh.jpg/250px-6_Times_Square_42_morning_red_brick_jeh.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -647,10 +527,9 @@ The building is in the Beaux-Arts style, constructed of red brick with terracott
     "Name": "James F. D. Lanier Residence",
     "Description":"The James F. D. Lanier Residence, also known as the James F. D. and Harriet Lanier House is an historic house located at 123 East 35th Street between Park and Lexington Avenues in the Murray Hill neighborhood of Manhattan, New York City.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lanier_House_123_East_35th_Street.jpg/182px-Lanier_House_123_East_35th_Street.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -660,10 +539,9 @@ The building is in the Beaux-Arts style, constructed of red brick with terracott
     "Name": "Lunt-Fontanne Theatre",
     "Description":"The Lunt-Fontanne Theatre (previously known as the Globe Theatre) is a Broadway theatre located at 205 West 46th Street in Midtown Manhattan.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lunt-Fontanne_Theatre_-_Dave_Chappelle_%2848296060697%29.jpg/300px-Lunt-Fontanne_Theatre_-_Dave_Chappelle_%2848296060697%29.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -673,10 +551,9 @@ The building is in the Beaux-Arts style, constructed of red brick with terracott
     "Name": "MacDowell Clubs",
     "Description":"The MacDowell Clubs in the United States were established at the turn of the twentieth century to honor internationally recognized American composer Edward MacDowell. They became part of a broader social movement to promote music and other art forms in America.",
     "Images":""
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -684,13 +561,11 @@ The building is in the Beaux-Arts style, constructed of red brick with terracott
     },
     "properties": {
     "Name": "Manhattan Life Insurance Building",
-    "Description":"The Manhattan Life Insurance Building was a  348 ft (106 m) tower on Broadway in the Financial District of Manhattan, New York City. The original structure at 64–66 Broadway was completed in 1894 to the designs of the architects of Kimball & Thompson, and was slightly extended north in 1904 to 68–70 Broadway. It was the first skyscraper to pass 330 ft (100 m) in Manhattan.
-The building was sold at least twice. In 1926, the Manhattan Life Insurance Company sold the building to Frederick Brown, who then re-sold it to the Manufacturer's Trust Company a few weeks later. Then, in 1928, Central Union Trust Company, whose headquarters were in adjacent structures to the north, bought 70 Broadway for an undisclosed sum, although the building was assessed at that time at $4 million. Following the Central Union Trust Company's sale of the buildings to the north to the Irving Trust Company, which then built a new skyscraper at 1 Wall Street, Central Union Trust moved to the Manhattan Life Building and modified the structures at 60, 62, and 70 Broadway.The building was demolished to make way for an annex to 1 Wall Street, completed in 1965.  Sources vary about whether the year of demolition was 1963 or 1964.",
+    "Description":"The Manhattan Life Insurance Building was a  348 ft (106 m) tower on Broadway in the Financial District of Manhattan, New York City. The original structure at 64\u201366 Broadway was completed in 1894 to the designs of the architects of Kimball & Thompson, and was slightly extended north in 1904 to 68\u201370 Broadway. It was the first skyscraper to pass 330 ft (100 m) in Manhattan.\nThe building was sold at least twice. In 1926, the Manhattan Life Insurance Company sold the building to Frederick Brown, who then re-sold it to the Manufacturer's Trust Company a few weeks later. Then, in 1928, Central Union Trust Company, whose headquarters were in adjacent structures to the north, bought 70 Broadway for an undisclosed sum, although the building was assessed at that time at $4 million. Following the Central Union Trust Company's sale of the buildings to the north to the Irving Trust Company, which then built a new skyscraper at 1 Wall Street, Central Union Trust moved to the Manhattan Life Building and modified the structures at 60, 62, and 70 Broadway.The building was demolished to make way for an annex to 1 Wall Street, completed in 1965.  Sources vary about whether the year of demolition was 1963 or 1964.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/7/79/Manhattan_Life_Insurance_Company_Building_New_York_City.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -698,16 +573,11 @@ The building was sold at least twice. In 1926, the Manhattan Life Insurance Comp
     },
     "properties": {
     "Name": "Marymount School of New York",
-    "Description":"Marymount School of New York is a college preparatory, independent, Catholic day school for girls located on the Upper East Side of Manhattan. It was founded by Mother Marie Joseph Butler in 1926 as part of a network of schools directed by the Religious of the Sacred Heart of Mary. The school enrolls students in Nursery through Class XII. Marymount's mission statement reads:
-
-"Marymount School is an independent, Catholic day school that seeks to educate young women who continue to question, risk, and grow—young women who care, serve, and lead—young women prepared to challenge, shape, and change the world."
-
-",
+    "Description":"Marymount School of New York is a college preparatory, independent, Catholic day school for girls located on the Upper East Side of Manhattan. It was founded by Mother Marie Joseph Butler in 1926 as part of a network of schools directed by the Religious of the Sacred Heart of Mary. The school enrolls students in Nursery through Class XII. Marymount's mission statement reads: \n\n\"Marymount School is an independent, Catholic day school that seeks to educate young women who continue to question, risk, and grow\u2014young women who care, serve, and lead\u2014young women prepared to challenge, shape, and change the world.\"\n\n",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marymount_School_jeh.JPG/300px-Marymount_School_jeh.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -717,10 +587,9 @@ The building was sold at least twice. In 1926, the Manhattan Life Insurance Comp
     "Name": "National Park Bank",
     "Description":"",
     "Images":""
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -728,12 +597,11 @@ The building was sold at least twice. In 1926, the Manhattan Life Insurance Comp
     },
     "properties": {
     "Name": "Neue Galerie New York",
-    "Description":"The Neue Galerie New York (German for: "New Gallery") is a museum of early twentieth-century German and Austrian art and design located in the William Starr Miller House at 86th Street and Fifth Avenue in New York City. Established in 2001, it is one of the most recent additions to New York City's famed Museum Mile, which runs from 83rd to 105th streets on Fifth Avenue in the Upper East Side of Manhattan.",
+    "Description":"The Neue Galerie New York (German for: \"New Gallery\") is a museum of early twentieth-century German and Austrian art and design located in the William Starr Miller House at 86th Street and Fifth Avenue in New York City. Established in 2001, it is one of the most recent additions to New York City's famed Museum Mile, which runs from 83rd to 105th streets on Fifth Avenue in the Upper East Side of Manhattan.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Neue_Gallery_%2848059179353%29.jpg/300px-Neue_Gallery_%2848059179353%29.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -741,13 +609,11 @@ The building was sold at least twice. In 1926, the Manhattan Life Insurance Comp
     },
     "properties": {
     "Name": "New Amsterdam Theatre",
-    "Description":"The New Amsterdam Theatre is a Broadway theatre located at 214 West 42nd Street between Seventh and Eighth Avenues in the Theater District of Manhattan, New York City, off of Times Square.  It was built in 1902–1903 and was designed by the architecture firm of Henry Hertz and Hugh Tallant; the Roof Garden, where more risqué productions were presented, and which no longer exists, was added in 1904, designed by the same firm.  The remainder of the building was utilized for offices.From 1913 to 1927, the theatre was the home of the Ziegfeld Follies, whose producer, Florenz Ziegfeld, Jr., maintained an office in the building, and operated a nightclub on the roof. George White's Scandals and Eva LeGallienne's Civic Repertory Theatre were subsequent tenants. It was used as a movie theatre beginning in 1937, closed in 1985, and was leased by The Walt Disney Company and renovated by Hardy Holzman Pfeiffer in 1995–97 to be the flagship for Disney Theatrical Productions presentations on Broadway.Both the Beaux-Arts exterior and the Art Nouveau interior of the building are New York City landmarks, having been designated in 1979.  In addition, the building was added to the National Register of Historic Places in 1980.
-Along with the Hudson and Lyceum Theatres, also built in 1903, the New Amsterdam is one of the oldest surviving Broadway venues.",
+    "Description":"The New Amsterdam Theatre is a Broadway theatre located at 214 West 42nd Street between Seventh and Eighth Avenues in the Theater District of Manhattan, New York City, off of Times Square.  It was built in 1902\u20131903 and was designed by the architecture firm of Henry Hertz and Hugh Tallant; the Roof Garden, where more risqu\u00e9 productions were presented, and which no longer exists, was added in 1904, designed by the same firm.  The remainder of the building was utilized for offices.From 1913 to 1927, the theatre was the home of the Ziegfeld Follies, whose producer, Florenz Ziegfeld, Jr., maintained an office in the building, and operated a nightclub on the roof. George White's Scandals and Eva LeGallienne's Civic Repertory Theatre were subsequent tenants. It was used as a movie theatre beginning in 1937, closed in 1985, and was leased by The Walt Disney Company and renovated by Hardy Holzman Pfeiffer in 1995\u201397 to be the flagship for Disney Theatrical Productions presentations on Broadway.Both the Beaux-Arts exterior and the Art Nouveau interior of the building are New York City landmarks, having been designated in 1979.  In addition, the building was added to the National Register of Historic Places in 1980.\nAlong with the Hudson and Lyceum Theatres, also built in 1903, the New Amsterdam is one of the oldest surviving Broadway venues.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/New_Amsterdam_1985.jpg/300px-New_Amsterdam_1985.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -755,15 +621,11 @@ Along with the Hudson and Lyceum Theatres, also built in 1903, the New Amsterdam
     },
     "properties": {
     "Name": "New York Public Library Main Branch",
-    "Description":"The Stephen A. Schwarzman Building, commonly known as the Main Branch or the New York Public Library, is the flagship building in the New York Public Library system and a landmark in Midtown Manhattan, New York City. The branch, one of four research libraries in the library system, contains nine separate divisions. The structure contains four stories open to the public. The main entrance steps are at Fifth Avenue at its intersection with East 41st Street. As of 2015, the branch contains an estimated 2.5 million volumes in its stacks. The building was declared a National Historic Landmark, a National Register of Historic Places site, and a New York City designated landmark in the 1960s.
-The Main Branch was built after the New York Public Library was formed as a combination of two libraries in the late 1890s. The site, along Fifth Avenue between 40th and 42nd Streets, is located directly east of Bryant Park, on the site of the Croton Reservoir. The architectural firm Carrère and Hastings constructed the structure in the Beaux-Arts style, and the structure opened on May 23, 1911. The marble facade of the building contains ornate detailing, and the Fifth Avenue entrance is flanked by a pair of stone lions that serve as the library's icon. The interior of the building contains the Main Reading Room, a space measuring 78 by 297 feet (24 by 91 m) with a 52-foot-high (16 m) ceiling; a Public Catalog Room; and various reading rooms, offices, and art exhibitions.
-The Main Branch became popular after its opening, and saw 4 million annual visitors by the 1920s. It formerly contained a circulating library, though the circulating division of the Main Branch moved to the nearby Mid-Manhattan Library in 1970. Additional space for the library's stacks was constructed under adjacent Bryant Park in 1991, and the branch's Main Reading Room was restored in 1998. A major restoration from 2007 to 2011 was underwritten by a $100 million gift from philanthropist Stephen A. Schwarzman, for whom the branch was subsequently renamed. Since 2018, the branch has been undergoing an additional expansion that is expected to be completed in 2021.
-The Main Branch has been featured in many television shows, including Seinfeld and Sex and the City, as well as films such as The Wiz in 1978, Ghostbusters in 1984, and The Day After Tomorrow in 2004.",
+    "Description":"The Stephen A. Schwarzman Building, commonly known as the Main Branch or the New York Public Library, is the flagship building in the New York Public Library system and a landmark in Midtown Manhattan, New York City. The branch, one of four research libraries in the library system, contains nine separate divisions. The structure contains four stories open to the public. The main entrance steps are at Fifth Avenue at its intersection with East 41st Street. As of 2015, the branch contains an estimated 2.5 million volumes in its stacks. The building was declared a National Historic Landmark, a National Register of Historic Places site, and a New York City designated landmark in the 1960s.\nThe Main Branch was built after the New York Public Library was formed as a combination of two libraries in the late 1890s. The site, along Fifth Avenue between 40th and 42nd Streets, is located directly east of Bryant Park, on the site of the Croton Reservoir. The architectural firm Carr\u00e8re and Hastings constructed the structure in the Beaux-Arts style, and the structure opened on May 23, 1911. The marble facade of the building contains ornate detailing, and the Fifth Avenue entrance is flanked by a pair of stone lions that serve as the library's icon. The interior of the building contains the Main Reading Room, a space measuring 78 by 297 feet (24 by 91 m) with a 52-foot-high (16 m) ceiling; a Public Catalog Room; and various reading rooms, offices, and art exhibitions.\nThe Main Branch became popular after its opening, and saw 4 million annual visitors by the 1920s. It formerly contained a circulating library, though the circulating division of the Main Branch moved to the nearby Mid-Manhattan Library in 1970. Additional space for the library's stacks was constructed under adjacent Bryant Park in 1991, and the branch's Main Reading Room was restored in 1998. A major restoration from 2007 to 2011 was underwritten by a $100 million gift from philanthropist Stephen A. Schwarzman, for whom the branch was subsequently renamed. Since 2018, the branch has been undergoing an additional expansion that is expected to be completed in 2021.\nThe Main Branch has been featured in many television shows, including Seinfeld and Sex and the City, as well as films such as The Wiz in 1978, Ghostbusters in 1984, and The Day After Tomorrow in 2004.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/New_York_Public_Library_May_2011.JPG/300px-New_York_Public_Library_May_2011.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -771,13 +633,11 @@ The Main Branch has been featured in many television shows, including Seinfeld a
     },
     "properties": {
     "Name": "New York Yacht Club",
-    "Description":"The New York Yacht Club (NYYC) is a private social club and yacht club based in New York City and Newport, Rhode Island. It was founded in 1844 by nine prominent sportsmen. The members have contributed to the sport of yachting and yacht design.  As of 2001, the organization was reported to have about 3,000 members. Membership in the club is by invitation only. Its officers include a  commodore, vice-commodore, rear-commodore, secretary and treasurer.
-The America's Cup trophy was won by members in 1851 and held by the NYYC until 1983. The NYYC successfully defended the trophy twenty-four times in a row before being defeated by the Royal Perth Yacht Club, represented by the yacht Australia II. The NYYC's reign was the longest winning streak as measured by years in the history of all sports.The NYYC has entered 2021 America's Cup under the syndicate name American Magic.",
+    "Description":"The New York Yacht Club (NYYC) is a private social club and yacht club based in New York City and Newport, Rhode Island. It was founded in 1844 by nine prominent sportsmen. The members have contributed to the sport of yachting and yacht design.  As of 2001, the organization was reported to have about 3,000 members. Membership in the club is by invitation only. Its officers include a  commodore, vice-commodore, rear-commodore, secretary and treasurer.\nThe America's Cup trophy was won by members in 1851 and held by the NYYC until 1983. The NYYC successfully defended the trophy twenty-four times in a row before being defeated by the Royal Perth Yacht Club, represented by the yacht Australia II. The NYYC's reign was the longest winning streak as measured by years in the history of all sports.The NYYC has entered 2021 America's Cup under the syndicate name American Magic.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/New_York_Yacht_Club_Burgee.png/300px-New_York_Yacht_Club_Burgee.png"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -785,12 +645,11 @@ The America's Cup trophy was won by members in 1851 and held by the NYYC until 1
     },
     "properties": {
     "Name": "Oliver Gould Jennings House",
-    "Description":"The Oliver Gould Jennings House is a mansion located at 7 East 72nd Street on the Upper East Side of New York City. It was originally constructed in 1898 for Oliver Gould Jennings in the French Beaux-Arts style. In 1964, it became part of the Lycée Français de New York in the neighboring Henry T. Sloane House.The mansion was in turn vacated by the school when it was sold and renovated to become a luxurious single-family home again. The purchaser of the building was Hamad bin Khalifa Al Thani, the (now former) Emir of Qatar, who bought the mansion and the neighboring Henry T. Sloane House around 2004.",
+    "Description":"The Oliver Gould Jennings House is a mansion located at 7 East 72nd Street on the Upper East Side of New York City. It was originally constructed in 1898 for Oliver Gould Jennings in the French Beaux-Arts style. In 1964, it became part of the Lyc\u00e9e Fran\u00e7ais de New York in the neighboring Henry T. Sloane House.The mansion was in turn vacated by the school when it was sold and renovated to become a luxurious single-family home again. The purchaser of the building was Hamad bin Khalifa Al Thani, the (now former) Emir of Qatar, who bought the mansion and the neighboring Henry T. Sloane House around 2004.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/East_72nd_Street_001a.JPG/225px-East_72nd_Street_001a.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -798,14 +657,11 @@ The America's Cup trophy was won by members in 1851 and held by the NYYC until 1
     },
     "properties": {
     "Name": "Our Lady of Esperanza Church",
-    "Description":"The Church of Our Lady of Esperanza is a Roman Catholic parish church in the Roman Catholic Archdiocese of New York, located at 624 West 156th Street between Broadway and Riverside Drive in the Washington Heights neighborhood of Upper Manhattan in New York City.
-
-The church is part of Audubon Terrace, which was designated a Historic District by the New York City Landmarks Preservation Commission on January 9, 1979, but it is organizationally separate from the museum complex.",
+    "Description":"The Church of Our Lady of Esperanza is a Roman Catholic parish church in the Roman Catholic Archdiocese of New York, located at 624 West 156th Street between Broadway and Riverside Drive in the Washington Heights neighborhood of Upper Manhattan in New York City.\n\nThe church is part of Audubon Terrace, which was designated a Historic District by the New York City Landmarks Preservation Commission on January 9, 1979, but it is organizationally separate from the museum complex.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Our_Lady_of_Esperanza_2.jpg/207px-Our_Lady_of_Esperanza_2.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -813,16 +669,11 @@ The church is part of Audubon Terrace, which was designated a Historic District 
     },
     "properties": {
     "Name": "Pennsylvania Station (1910–1963)",
-    "Description":"Pennsylvania Station was a historic railroad station in New York City, named for the Pennsylvania Railroad (PRR), its builder and original tenant.  The station occupied an 8-acre (3.2 ha) plot bounded by Seventh and Eighth Avenues and 31st and 33rd Streets in Midtown Manhattan. As the terminal shared its name with several stations in other cities, it was sometimes called New York Pennsylvania Station, or Penn Station for short.
-The building was designed by McKim, Mead, and White and completed in 1910, enabling direct rail access to New York City from the south for the first time.  Its head house and train shed were considered a masterpiece of the Beaux-Arts style and one of the great architectural works of New York City. The station contained 11 platforms serving 21 tracks, in approximately the same layout as the current Penn Station. The original building was one of the first stations to include separate waiting rooms for arriving and departing passengers, and when built, these were among the city's largest public spaces.
-Passenger traffic began to decline after World War II, and in the 1950s, the Pennsylvania Railroad sold the air rights to the property and shrank the railroad station. Starting in 1963, the above-ground head house and train shed were demolished, a loss that galvanized the modern historic preservation movement in the United States. Over the next six years, the below-ground concourses and waiting areas were heavily renovated, becoming the modern Penn Station, while Madison Square Garden and Pennsylvania Plaza were built above them. The sole remaining portions of the original station are the underground platforms and tracks, as well as scattered artifacts on the mezzanine level above it.
-
-",
+    "Description":"Pennsylvania Station was a historic railroad station in New York City, named for the Pennsylvania Railroad (PRR), its builder and original tenant.  The station occupied an 8-acre (3.2 ha) plot bounded by Seventh and Eighth Avenues and 31st and 33rd Streets in Midtown Manhattan. As the terminal shared its name with several stations in other cities, it was sometimes called New York Pennsylvania Station, or Penn Station for short.\nThe building was designed by McKim, Mead, and White and completed in 1910, enabling direct rail access to New York City from the south for the first time.  Its head house and train shed were considered a masterpiece of the Beaux-Arts style and one of the great architectural works of New York City. The station contained 11 platforms serving 21 tracks, in approximately the same layout as the current Penn Station. The original building was one of the first stations to include separate waiting rooms for arriving and departing passengers, and when built, these were among the city's largest public spaces.\nPassenger traffic began to decline after World War II, and in the 1950s, the Pennsylvania Railroad sold the air rights to the property and shrank the railroad station. Starting in 1963, the above-ground head house and train shed were demolished, a loss that galvanized the modern historic preservation movement in the United States. Over the next six years, the below-ground concourses and waiting areas were heavily renovated, becoming the modern Penn Station, while Madison Square Garden and Pennsylvania Plaza were built above them. The sole remaining portions of the original station are the underground platforms and tracks, as well as scattered artifacts on the mezzanine level above it.\n\n",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pennsylvania_Station_aerial_view%2C_1910s.jpg/300px-Pennsylvania_Station_aerial_view%2C_1910s.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -830,15 +681,11 @@ Passenger traffic began to decline after World War II, and in the 1950s, the Pen
     },
     "properties": {
     "Name": "Pennsylvania Station (New York City)",
-    "Description":"Pennsylvania Station, also known as New York Penn Station or simply Penn Station, is the main intercity railroad station in New York City and the busiest in the Western Hemisphere, serving more than 600,000 passengers per weekday as of 2019. It is located in Midtown Manhattan, beneath Madison Square Garden in the block bounded by Seventh and Eighth avenues, and 31st and 33rd streets, with additional exits to nearby streets. It is close to Herald Square, the Empire State Building, Koreatown, and Macy's Herald Square.
-Penn Station has 21 tracks fed by seven tunnels (the two North River Tunnels, the four East River Tunnels, and the single Empire Connection tunnel). It is at the center of the Northeast Corridor, a passenger rail line that connects New York City with Boston, Philadelphia, Washington, D.C., and intermediate points. Intercity trains are operated by Amtrak, which owns the station, while commuter rail services are operated by the Long Island Rail Road (LIRR) and NJ Transit (NJT). Connections are available within the complex to the New York City Subway, and buses.
-Penn Station is named for the Pennsylvania Railroad (PRR), its builder and original owner, and shares its name with several stations in other cities. The current facility is the remodeled underground remnant of the original Pennsylvania Station, a more ornate station building designed by McKim, Mead, and White and considered a masterpiece of the Beaux-Arts style. Completed in 1910, it enabled direct rail access to New York City from the south for the first time. Its head house was torn down in 1963, galvanizing the modern historic preservation movement. The rest of the station was rebuilt in the following six years, while retaining most of the rail infrastructure from the original station.
-A new direct entrance from 33rd Street to the LIRR concourse opened in December 2020, and Moynihan Train Hall, an expansion of Penn Station into a mixed-use redevelopment of the adjacent Farley Post Office building, opened in January 2021. Future plans for Penn Station include the construction of additional railway platforms in a new southern annex to accommodate two proposed Gateway Program tunnels across the Hudson River, as well as further expansion of the LIRR concourse.",
+    "Description":"Pennsylvania Station, also known as New York Penn Station or simply Penn Station, is the main intercity railroad station in New York City and the busiest in the Western Hemisphere, serving more than 600,000 passengers per weekday as of 2019. It is located in Midtown Manhattan, beneath Madison Square Garden in the block bounded by Seventh and Eighth avenues, and 31st and 33rd streets, with additional exits to nearby streets. It is close to Herald Square, the Empire State Building, Koreatown, and Macy's Herald Square.\nPenn Station has 21 tracks fed by seven tunnels (the two North River Tunnels, the four East River Tunnels, and the single Empire Connection tunnel). It is at the center of the Northeast Corridor, a passenger rail line that connects New York City with Boston, Philadelphia, Washington, D.C., and intermediate points. Intercity trains are operated by Amtrak, which owns the station, while commuter rail services are operated by the Long Island Rail Road (LIRR) and NJ Transit (NJT). Connections are available within the complex to the New York City Subway, and buses.\nPenn Station is named for the Pennsylvania Railroad (PRR), its builder and original owner, and shares its name with several stations in other cities. The current facility is the remodeled underground remnant of the original Pennsylvania Station, a more ornate station building designed by McKim, Mead, and White and considered a masterpiece of the Beaux-Arts style. Completed in 1910, it enabled direct rail access to New York City from the south for the first time. Its head house was torn down in 1963, galvanizing the modern historic preservation movement. The rest of the station was rebuilt in the following six years, while retaining most of the rail infrastructure from the original station.\nA new direct entrance from 33rd Street to the LIRR concourse opened in December 2020, and Moynihan Train Hall, an expansion of Penn Station into a mixed-use redevelopment of the adjacent Farley Post Office building, opened in January 2021. Future plans for Penn Station include the construction of additional railway platforms in a new southern annex to accommodate two proposed Gateway Program tunnels across the Hudson River, as well as further expansion of the LIRR concourse.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/ESC_1_Jan_%288%29_jeh.jpg/300px-ESC_1_Jan_%288%29_jeh.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -846,14 +693,11 @@ A new direct entrance from 33rd Street to the LIRR concourse opened in December 
     },
     "properties": {
     "Name": "Racquet and Tennis Club",
-    "Description":"The Racquet and Tennis Club, familiarly known as the R&T, is a private social and athletic club at 370 Park Avenue, between East 52nd and 53rd Streets in Midtown Manhattan, New York City.
-
-",
+    "Description":"The Racquet and Tennis Club, familiarly known as the R&T, is a private social and athletic club at 370 Park Avenue, between East 52nd and 53rd Streets in Midtown Manhattan, New York City.\n\n",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Racquet_and_Tennis_Club_370_Park_Avenue.jpg/300px-Racquet_and_Tennis_Club_370_Park_Avenue.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -861,15 +705,11 @@ A new direct entrance from 33rd Street to the LIRR concourse opened in December 
     },
     "properties": {
     "Name": "St. Gregory the Great Church (Manhattan)",
-    "Description":"The Church of St Gregory the Great is a Roman Catholic parish located on the Upper West Side of Manhattan, New York City.  The parish is part of the Archdiocese of New York. The church building, designed by architect Elliott Lynch, contains the church and parish offices on the ground floor with St. Gregory the Great Parochial School on the next two floors above, the final fourth floor is occupied by the rectory. The address of the church is 144 West 90th Street, New York, New York 10024-1202; the address of the school is 138 West 90th Street, New York, NY 10024.
-On May 8, 2015, the parish was merged with that of Holy Name of Jesus, and on June 30, 2017, the church was deconsecrated.
-
-",
+    "Description":"The Church of St Gregory the Great is a Roman Catholic parish located on the Upper West Side of Manhattan, New York City.  The parish is part of the Archdiocese of New York. The church building, designed by architect Elliott Lynch, contains the church and parish offices on the ground floor with St. Gregory the Great Parochial School on the next two floors above, the final fourth floor is occupied by the rectory. The address of the church is 144 West 90th Street, New York, New York 10024-1202; the address of the school is 138 West 90th Street, New York, NY 10024.\nOn May 8, 2015, the parish was merged with that of Holy Name of Jesus, and on June 30, 2017, the church was deconsecrated.\n\n",
     "Images":""
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -877,13 +717,11 @@ On May 8, 2015, the parish was merged with that of Holy Name of Jesus, and on Ju
     },
     "properties": {
     "Name": "Scribner Building",
-    "Description":"The Scribner Building (also known as the Old Scribner Building) is a Beaux Arts structure at 153-157 Fifth Avenue in Manhattan, New York City, at 21st Street. Designed by Ernest Flagg and completed in 1893, it was the corporate headquarters of Charles Scribner's Sons publishing company. Flagg also designed its successor building at 597 Fifth Avenue.
-The Scribner Building was listed on the National Register of Historic Places in 1980.",
+    "Description":"The Scribner Building (also known as the Old Scribner Building) is a Beaux Arts structure at 153-157 Fifth Avenue in Manhattan, New York City, at 21st Street. Designed by Ernest Flagg and completed in 1893, it was the corporate headquarters of Charles Scribner's Sons publishing company. Flagg also designed its successor building at 597 Fifth Avenue.\nThe Scribner Building was listed on the National Register of Historic Places in 1980.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Scribner-building.jpg/190px-Scribner-building.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -893,10 +731,9 @@ The Scribner Building was listed on the National Register of Historic Places in 
     "Name": "Seventh Regiment Memorial",
     "Description":"Seventh Regiment Memorial is an outdoor bronze sculpture honoring the members of that regiment whose lives were forfeited during the Civil War.  The statue was created by John Quincy Adams Ward and the base was designed by Richard Morris Hunt.  Although the statue is dated 1869 the monument was not unveiled until June 22, 1874.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/7th_Rgt_Mem_W68_CP_JQA_Ward_jeh.jpg/225px-7th_Rgt_Mem_W68_CP_JQA_Ward_jeh.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -904,14 +741,11 @@ The Scribner Building was listed on the National Register of Historic Places in 
     },
     "properties": {
     "Name": "Singer Building",
-    "Description":"The Singer Building (also the Singer Tower) was an office building and early skyscraper in Manhattan, New York City. Serving as the headquarters of the Singer Manufacturing Company, it was at the northwestern corner of Liberty Street and Broadway in the Financial District of Lower Manhattan. The building was commissioned by Frederick Gilbert Bourne, leader of the Singer Company, and designed in multiple phases by architect Ernest Flagg, an early proponent of the Beaux-Arts architectural style, from 1897 to 1908.
-The completed Singer Building was composed of a 14-story base covering the entire land lot, as well as a tower rising an additional 27 stories above a small section of the base. Included in the base were the original Singer Building at 149 Broadway, the Bourne Building on Liberty Street, and subsequent additions to both buildings. The facade was made of brick, stone, and terracotta, and the tower was capped by a dome with a lantern. The foundation of the tower was excavated to the underlying bedrock, while the base rested on relatively shallow foundations. The Singer Building used a steel skeleton, though the original structure was initially supported by load-bearing walls prior to modification. When completed, the building had a large lobby, 16 elevators, and an observatory.
-The original 10-story Singer Building was erected between 1897 and 1898, while the 14-story Bourne Building was built adjacent to it from 1898 to 1899. The Singer Building's tower was built between 1906 and 1908 as part of another expansion, and both original buildings were expanded, becoming the base of an enlarged Singer Building. The Singer Tower was the tallest building in the world from 1908 to 1909, with a roof height of 612 feet (187 m). The Singer Building and the adjacent City Investing Building were razed in 1968 to make way for One Liberty Plaza, despite being regarded as a city icon. The Singer Building was the tallest building ever to be demolished at the time of its destruction.",
+    "Description":"The Singer Building (also the Singer Tower) was an office building and early skyscraper in Manhattan, New York City. Serving as the headquarters of the Singer Manufacturing Company, it was at the northwestern corner of Liberty Street and Broadway in the Financial District of Lower Manhattan. The building was commissioned by Frederick Gilbert Bourne, leader of the Singer Company, and designed in multiple phases by architect Ernest Flagg, an early proponent of the Beaux-Arts architectural style, from 1897 to 1908.\nThe completed Singer Building was composed of a 14-story base covering the entire land lot, as well as a tower rising an additional 27 stories above a small section of the base. Included in the base were the original Singer Building at 149 Broadway, the Bourne Building on Liberty Street, and subsequent additions to both buildings. The facade was made of brick, stone, and terracotta, and the tower was capped by a dome with a lantern. The foundation of the tower was excavated to the underlying bedrock, while the base rested on relatively shallow foundations. The Singer Building used a steel skeleton, though the original structure was initially supported by load-bearing walls prior to modification. When completed, the building had a large lobby, 16 elevators, and an observatory.\nThe original 10-story Singer Building was erected between 1897 and 1898, while the 14-story Bourne Building was built adjacent to it from 1898 to 1899. The Singer Building's tower was built between 1906 and 1908 as part of another expansion, and both original buildings were expanded, becoming the base of an enlarged Singer Building. The Singer Tower was the tallest building in the world from 1908 to 1909, with a roof height of 612 feet (187 m). The Singer Building and the adjacent City Investing Building were razed in 1968 to make way for One Liberty Plaza, despite being regarded as a city icon. The Singer Building was the tallest building ever to be demolished at the time of its destruction.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SingerBuilding_crop.jpg/139px-SingerBuilding_crop.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -919,12 +753,11 @@ The original 10-story Singer Building was erected between 1897 and 1898, while t
     },
     "properties": {
     "Name": "Sohmer Piano Building",
-    "Description":"The Sohmer Piano Building, or Sohmer Building, is a Neo-classical  Beaux-Arts building located at 170 Fifth Avenue at East 22nd Street, in the Flatiron District neighborhood of the New York City borough of Manhattan, diagonally southwest of the Flatiron Building. Designed by Robert Maynicke as a store-and-loft building for real-estate developer Henry Corn, and built in 1897-98 it is easily recognizable by its gold dome, which sits on top of a 2-story octagonal cupola.The building is located in within the Ladies' Mile Historic District, and, according to the New York City Landmarks Preservation Commission, is "characteristic of the later development phase of the District". It was named for the Sohmer Piano Company, which had its offices and showroom there early in the building's history. Other tenants included architects, publishers, and merchants of leather, hats, perfume and upholstery. It was converted to residential condominium apartments in the early 21st century, and its architectural features were restored between 2002 and 2005 by Bone / Levine Architects.",
+    "Description":"The Sohmer Piano Building, or Sohmer Building, is a Neo-classical  Beaux-Arts building located at 170 Fifth Avenue at East 22nd Street, in the Flatiron District neighborhood of the New York City borough of Manhattan, diagonally southwest of the Flatiron Building. Designed by Robert Maynicke as a store-and-loft building for real-estate developer Henry Corn, and built in 1897-98 it is easily recognizable by its gold dome, which sits on top of a 2-story octagonal cupola.The building is located in within the Ladies' Mile Historic District, and, according to the New York City Landmarks Preservation Commission, is \"characteristic of the later development phase of the District\". It was named for the Sohmer Piano Company, which had its offices and showroom there early in the building's history. Other tenants included architects, publishers, and merchants of leather, hats, perfume and upholstery. It was converted to residential condominium apartments in the early 21st century, and its architectural features were restored between 2002 and 2005 by Bone / Levine Architects.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sohmer_Piano_Building_top.jpg/229px-Sohmer_Piano_Building_top.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -932,14 +765,11 @@ The original 10-story Singer Building was erected between 1897 and 1898, while t
     },
     "properties": {
     "Name": "Soldiers' and Sailors' Arch",
-    "Description":"The Soldiers' and Sailors' Arch is a triumphal arch at Grand Army Plaza in Brooklyn, New York City, just north of Prospect Park. Built from 1889 to 1892, the arch is dedicated "To the Defenders of the Union, 1861–1865".The eastern end with a stairway to the observation deck and crowning sculpture was occasionally open to the public until the early 2000s, when deterioration of the interior made it unsafe for the public.
-
-",
+    "Description":"The Soldiers' and Sailors' Arch is a triumphal arch at Grand Army Plaza in Brooklyn, New York City, just north of Prospect Park. Built from 1889 to 1892, the arch is dedicated \"To the Defenders of the Union, 1861\u20131865\".The eastern end with a stairway to the observation deck and crowning sculpture was occasionally open to the public until the early 2000s, when deterioration of the interior made it unsafe for the public.\n\n",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Soldiers%27_and_Sailors%27_Arch.jpg/242px-Soldiers%27_and_Sailors%27_Arch.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -947,13 +777,11 @@ The original 10-story Singer Building was erected between 1897 and 1898, while t
     },
     "properties": {
     "Name": "Staten Island Borough Hall",
-    "Description":"Staten Island Borough Hall is the primary municipal building for the borough of Staten Island in New York City. It is located at 10 Richmond Terrace, next to the Richmond County Courthouse and opposite the St. George Terminal of the Staten Island Ferry. Borough Hall houses the Borough President's office, offices of the Departments of Buildings and Transportation, and other civic offices.
-The 1906 French Renaissance style brick and limestone building was designed by Carrere and Hastings, following the consolidation of New York City in 1898. John Carrere was a resident of Staten Island and he helped select the dramatic hilltop site of Borough Hall. The interior of the building contains a series of thirteen WPA murals illustrating events in Staten Island history, painted by local artist Frederick Charles Stahr.The building is a New York City Landmark and was listed on the National Register of Historic Places in 1983.",
+    "Description":"Staten Island Borough Hall is the primary municipal building for the borough of Staten Island in New York City. It is located at 10 Richmond Terrace, next to the Richmond County Courthouse and opposite the St. George Terminal of the Staten Island Ferry. Borough Hall houses the Borough President's office, offices of the Departments of Buildings and Transportation, and other civic offices.\nThe 1906 French Renaissance style brick and limestone building was designed by Carrere and Hastings, following the consolidation of New York City in 1898. John Carrere was a resident of Staten Island and he helped select the dramatic hilltop site of Borough Hall. The interior of the building contains a series of thirteen WPA murals illustrating events in Staten Island history, painted by local artist Frederick Charles Stahr.The building is a New York City Landmark and was listed on the National Register of Historic Places in 1983.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SI_Boro_Hall_jeh.JPG/300px-SI_Boro_Hall_jeh.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -961,16 +789,11 @@ The 1906 French Renaissance style brick and limestone building was designed by C
     },
     "properties": {
     "Name": "Substation 401",
-    "Description":"Substation #401, also called the "Essex Sub-station" is a historic New York City Subway electrical substation.
-
-This facility is located on the south side of Fulton Street, between Essex Street and Shepherd Avenue, in the Cypress Hills neighborhood of the borough of Brooklyn. It sits adjacent to the BMT Jamaica Line between the Cleveland Street and Norwood Avenue stations.
-It was built in 1901 by the Brooklyn Rapid Transit Company for the Cypress Hills extension of the BMT Lexington Avenue Line, and is a Beaux Arts style structure. Through a series of acquisitions, it was passed over to the Brooklyn-Manhattan Transit Corporation, then the New York City Board of Transportation, the New York City Transit Authority, and finally the Metropolitan Transportation Authority (MTA), where it remains to this day.
-It was listed on the National Register of Historic Places in 2005.",
+    "Description":"Substation #401, also called the \"Essex Sub-station\" is a historic New York City Subway electrical substation. \n\nThis facility is located on the south side of Fulton Street, between Essex Street and Shepherd Avenue, in the Cypress Hills neighborhood of the borough of Brooklyn. It sits adjacent to the BMT Jamaica Line between the Cleveland Street and Norwood Avenue stations.\nIt was built in 1901 by the Brooklyn Rapid Transit Company for the Cypress Hills extension of the BMT Lexington Avenue Line, and is a Beaux Arts style structure. Through a series of acquisitions, it was passed over to the Brooklyn-Manhattan Transit Corporation, then the New York City Board of Transportation, the New York City Transit Authority, and finally the Metropolitan Transportation Authority (MTA), where it remains to this day.\nIt was listed on the National Register of Historic Places in 2005.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Brooklyn_sub-station_2.JPG/300px-Brooklyn_sub-station_2.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -978,16 +801,11 @@ It was listed on the National Register of Historic Places in 2005.",
     },
     "properties": {
     "Name": "Surrogate's Courthouse",
-    "Description":"The Surrogate's Courthouse (also the Hall of Records and 31 Chambers Street) is a historic building at the northwest corner of Chambers and Centre Streets in Civic Center, Manhattan, New York City. The building was designed in the Beaux Arts style by John Rochester Thomas, as well as Arthur J. Horgan and Vincent J. Slattery. It faces City Hall Park and Tweed Courthouse to the south, and the Manhattan Municipal Building to the east.
-The Surrogate's Courthouse consists of a seven-story, steel-framed structure with a granite facade and elaborate marble interiors. It was designed to be fireproof in order to safely house the city's paper records. The exterior contains fifty-four sculptures by prize-winning artists, as well as a three-story Corinthian-style colonnade on Chambers and Reade Streets. The building houses the city's Municipal Archives in the basement, and courtrooms for the Surrogate's Court for New York County on the fifth floor.
-The Hall of Records building had been planned since the late 19th century to replace an outdated building in City Hall Park, and plans for the current building were approved in 1897. Construction took place between 1899 and 1907, having experienced several delays because of controversies over funding, sculptures, and Horgan and Slattery's involvement after Thomas's 1901 death. The building was renamed the Surrogate's Courthouse in 1962, and over the years, has undergone few alterations. The Surrogate's Courthouse is listed on the National Register of Historic Places as a National Historic Landmark, and its facade and interior are both New York City designated landmarks.
-
-",
+    "Description":"The Surrogate's Courthouse (also the Hall of Records and 31 Chambers Street) is a historic building at the northwest corner of Chambers and Centre Streets in Civic Center, Manhattan, New York City. The building was designed in the Beaux Arts style by John Rochester Thomas, as well as Arthur J. Horgan and Vincent J. Slattery. It faces City Hall Park and Tweed Courthouse to the south, and the Manhattan Municipal Building to the east.\nThe Surrogate's Courthouse consists of a seven-story, steel-framed structure with a granite facade and elaborate marble interiors. It was designed to be fireproof in order to safely house the city's paper records. The exterior contains fifty-four sculptures by prize-winning artists, as well as a three-story Corinthian-style colonnade on Chambers and Reade Streets. The building houses the city's Municipal Archives in the basement, and courtrooms for the Surrogate's Court for New York County on the fifth floor.\nThe Hall of Records building had been planned since the late 19th century to replace an outdated building in City Hall Park, and plans for the current building were approved in 1897. Construction took place between 1899 and 1907, having experienced several delays because of controversies over funding, sculptures, and Horgan and Slattery's involvement after Thomas's 1901 death. The building was renamed the Surrogate's Courthouse in 1962, and over the years, has undergone few alterations. The Surrogate's Courthouse is listed on the National Register of Historic Places as a National Historic Landmark, and its facade and interior are both New York City designated landmarks.\n\n",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Surrogate%27s_Court.JPG/300px-Surrogate%27s_Court.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -995,12 +813,11 @@ The Hall of Records building had been planned since the late 19th century to rep
     },
     "properties": {
     "Name": "Van Tassell and Kearney Horse Auction Mart",
-    "Description":"The Van Tassell and Kearney Horse Auction Mart is a building in East Village, Manhattan, New York City. The building was constructed in 1903-04 to the designs of Jardine, Kent & Jardine in the Beaux-Arts Style. It originally served as a horse auction mart that catered to New York's elite families, including the Vanderbilts and Delanos. Each Tuesday and Friday, Van Tassell & Kearney held auctions in the building. Though carriages remained an important part of the business, most advertisements and newspaper stories about the mart concerned the sale of horses, particularly high-priced ribbon winners, polo ponies, hunters, and thoroughbreds. Other sales were devoted to breeding stock and coach horses, including a large group of horses co-owned by Alfred W. Vanderbilt and Robert L. Gerry in 1906.As automobiles and other forms of public transit became much more common after World War I, the practical need for horses and stables decreased.  The auction mart ceased functioning in the 13th Street building.  It served as an assembly-line training center for women during World War II.  From 1978 to 2005, artist Frank Stella owned the building and used it as his studio.  His nearly 30-year stewardship of the building resulted in the facade being cleaned and restored.In 2006, after discovering plans of a new owner to demolish the building and replace it with a condo development, the Greenwich Village Society for Historic Preservation (GVSHP) asked the New York City Landmarks Preservation Commission (LPC) to hold an emergency hearing on the structure.  There was significant support for designation, including City Councilmember Rosie Mendez. Playing on the history of the building as an assembly line training center for women during World War II, GVSHP used the iconic "We Can Do It!" image (often associated with Rosie the Riveter) on stickers, flyers, and T-shirts emblazoned with the slogan "We Can Save It! Landmark 128 East 13th Street" as part of the campaign to secure landmark designation for the building. The LPC held a public hearing and halted demolition plans, but did not immediately designate the building.  On November 29, 2007, the building was listed on the State and National Register of Historic Places.  GVSHP and other advocates continued to push for designation.  In May 2012, after a 6-year campaign, the LPC voted unanimously to designate the former Van Tassell & Kearney Horse Auction Mart a New York City designated landmark.In January 2010 after an extensive renovation, Peridance Capezio Center opened here at its new location.",
+    "Description":"The Van Tassell and Kearney Horse Auction Mart is a building in East Village, Manhattan, New York City. The building was constructed in 1903-04 to the designs of Jardine, Kent & Jardine in the Beaux-Arts Style. It originally served as a horse auction mart that catered to New York's elite families, including the Vanderbilts and Delanos. Each Tuesday and Friday, Van Tassell & Kearney held auctions in the building. Though carriages remained an important part of the business, most advertisements and newspaper stories about the mart concerned the sale of horses, particularly high-priced ribbon winners, polo ponies, hunters, and thoroughbreds. Other sales were devoted to breeding stock and coach horses, including a large group of horses co-owned by Alfred W. Vanderbilt and Robert L. Gerry in 1906.As automobiles and other forms of public transit became much more common after World War I, the practical need for horses and stables decreased.  The auction mart ceased functioning in the 13th Street building.  It served as an assembly-line training center for women during World War II.  From 1978 to 2005, artist Frank Stella owned the building and used it as his studio.  His nearly 30-year stewardship of the building resulted in the facade being cleaned and restored.In 2006, after discovering plans of a new owner to demolish the building and replace it with a condo development, the Greenwich Village Society for Historic Preservation (GVSHP) asked the New York City Landmarks Preservation Commission (LPC) to hold an emergency hearing on the structure.  There was significant support for designation, including City Councilmember Rosie Mendez. Playing on the history of the building as an assembly line training center for women during World War II, GVSHP used the iconic \"We Can Do It!\" image (often associated with Rosie the Riveter) on stickers, flyers, and T-shirts emblazoned with the slogan \"We Can Save It! Landmark 128 East 13th Street\" as part of the campaign to secure landmark designation for the building. The LPC held a public hearing and halted demolition plans, but did not immediately designate the building.  On November 29, 2007, the building was listed on the State and National Register of Historic Places.  GVSHP and other advocates continued to push for designation.  In May 2012, after a 6-year campaign, the LPC voted unanimously to designate the former Van Tassell & Kearney Horse Auction Mart a New York City designated landmark.In January 2010 after an extensive renovation, Peridance Capezio Center opened here at its new location.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Peridance_128_E13_jeh.jpg/263px-Peridance_128_E13_jeh.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -1008,14 +825,11 @@ The Hall of Records building had been planned since the late 19th century to rep
     },
     "properties": {
     "Name": "W New York Union Square",
-    "Description":"The W New York Union Square is a 270-room, 21-story boutique hotel operated by W Hotels at the northeast corner of Park Avenue South and 17th Street, across from Union Square in Manhattan, New York. Originally known as the Germania Life Insurance Company Building, it was designed by Albert D'Oench and Joseph W. Yost and built in 1911 in the Beaux-Arts style.
-The W New York Union Square building was initially the headquarters of the Germania Life Insurance Company. In 1917, when the company became the Guardian Life Insurance Company of America, the building was renamed the Guardian Life Insurance Company Building. A four-story annex to the east was designed by Skidmore, Owings & Merrill and was completed in 1961. Guardian Life moved its offices out of the building in 1999, and the W New York Union Square opened the following year.
-The main building, part of the hotel, was added to the National Register of Historic Places in 2001, and was designated a city landmark by the New York City Landmarks Preservation Commission in 1988. The Guardian Life annex, not part of the current hotel, was designated as a city landmark in 2007.",
+    "Description":"The W New York Union Square is a 270-room, 21-story boutique hotel operated by W Hotels at the northeast corner of Park Avenue South and 17th Street, across from Union Square in Manhattan, New York. Originally known as the Germania Life Insurance Company Building, it was designed by Albert D'Oench and Joseph W. Yost and built in 1911 in the Beaux-Arts style. \nThe W New York Union Square building was initially the headquarters of the Germania Life Insurance Company. In 1917, when the company became the Guardian Life Insurance Company of America, the building was renamed the Guardian Life Insurance Company Building. A four-story annex to the east was designed by Skidmore, Owings & Merrill and was completed in 1961. Guardian Life moved its offices out of the building in 1999, and the W New York Union Square opened the following year.\nThe main building, part of the hotel, was added to the National Register of Historic Places in 2001, and was designated a city landmark by the New York City Landmarks Preservation Commission in 1988. The Guardian Life annex, not part of the current hotel, was designated as a city landmark in 2007.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Germania_Life_Insurance_Company_Building.jpg/198px-Germania_Life_Insurance_Company_Building.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -1025,10 +839,9 @@ The main building, part of the hotel, was added to the National Register of Hist
     "Name": "Wallabout Historic District",
     "Description":"Wallabout Historic District is a national historic district located in the Wallabout neighborhood of Brooklyn, Kings County, New York. The district encompasses 203 contributing buildings in a mixed residential and commercial / industrial section of Brooklyn.  The district features noteworthy examples of Greek Revival, Gothic Revival, Italianate, Second Empire, Queen Anne, Beaux-Arts, and Colonial Revival style architecture. It largely developed between about 1830 and 1880, with some later development.  It includes vernacular wood houses, masonry single-family rowhouses in brick and brownstone, and multi-family tenements and flat houses.It was listed on the National Register of Historic Places in 2011.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Vanderbilt_Avenue.JPG/300px-Vanderbilt_Avenue.JPG"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -1036,13 +849,11 @@ The main building, part of the hotel, was added to the National Register of Hist
     },
     "properties": {
     "Name": "Western Union Telegraph Building",
-    "Description":"The Western Union Telegraph Building was a building at Dey Street and Broadway in the Financial District of Manhattan, New York City. It was designed by the architect George B. Post, and completed in 1875. The building served as headquarters for the Western Union telegraph company from 1875 until its destruction by fire in 1890, and was subsequently rebuilt in 1892 to designs by Henry Janeway Hardenbergh. The building was ten stories tall, rising to a height of 230 feet (70 m). It provided workspace for 100 telegraph operators and was staffed 24 hours a day.
-The building was topped by a clock tower, and some claim that this building was the first skyscraper in New York City. Beginning in 1877, a time ball was dropped from the top of the building at exactly noon, triggered by a telegraph from the National Observatory in Washington, D.C. This system, invented by George May Phelps, was later used as the initial reference for Standard railway time in 1883, and would stay in use until 1912. The building's time ball would serve as an inspiration for One Times Square's New Year's Eve "ball drop", first held on December 31, 1907.The building was demolished from 1912 through 1914. It was replaced with the taller AT&T Headquarters at 195 Broadway. The Western Union Building annex at 14-18 Dey Street was demolished in 1912, and Western Union employees moved out of the old building to a new structure at 32 Avenue of the Americas in June 1914. The new AT&T headquarters was completed in 1916.",
+    "Description":"The Western Union Telegraph Building was a building at Dey Street and Broadway in the Financial District of Manhattan, New York City. It was designed by the architect George B. Post, and completed in 1875. The building served as headquarters for the Western Union telegraph company from 1875 until its destruction by fire in 1890, and was subsequently rebuilt in 1892 to designs by Henry Janeway Hardenbergh. The building was ten stories tall, rising to a height of 230 feet (70 m). It provided workspace for 100 telegraph operators and was staffed 24 hours a day.\nThe building was topped by a clock tower, and some claim that this building was the first skyscraper in New York City. Beginning in 1877, a time ball was dropped from the top of the building at exactly noon, triggered by a telegraph from the National Observatory in Washington, D.C. This system, invented by George May Phelps, was later used as the initial reference for Standard railway time in 1883, and would stay in use until 1912. The building's time ball would serve as an inspiration for One Times Square's New Year's Eve \"ball drop\", first held on December 31, 1907.The building was demolished from 1912 through 1914. It was replaced with the taller AT&T Headquarters at 195 Broadway. The Western Union Building annex at 14-18 Dey Street was demolished in 1912, and Western Union employees moved out of the old building to a new structure at 32 Avenue of the Americas in June 1914. The new AT&T headquarters was completed in 1916.",
     "Images":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Western_Union_Telegraph_Building.jpg/265px-Western_Union_Telegraph_Building.jpg"
-    },
-     ]
     }
-       {
+    },
+ {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -1052,6 +863,7 @@ The building was topped by a clock tower, and some claim that this building was 
     "Name": "Category:Grand Central Terminal",
     "Description":"",
     "Images":""
-    },
-     ]
     }
+    },
+ ]
+}
